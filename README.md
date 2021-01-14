@@ -28,10 +28,10 @@ My list of mods plus a few alternatives based on personal taste
 +	Automate 1.19.1	Pathoschild	no errors
 +	Better Jukebox 1.2.0	Gaphodil	no errors
 +	Bus Locations 1.0.7
-+ Chat Commands 1.15.2	Cat	no errors
-
++	Chat Commands 1.15.2	Cat	no errors
++	Event Repeater 5.3.0	MissCoriel	no errors
 +	Generic Mod Config Menu 1.2.1	spacechase0	no errors
-+ ZoomLevel 1.2.0	thespbgamer	no errors
++	ZoomLevel 1.2.0	thespbgamer	no errors
 
 
 ## Quality of Life
@@ -39,11 +39,13 @@ My list of mods plus a few alternatives based on personal taste
 +	AutomaticGates 2.5.1	Rakiin aKa ScheKaa	no errors
 +	AutoAnimalDoors 2.3.1-unofficial.4-Quintin	Aaron Taggart	no errors
 +	Bigger Backpack 3.0.0	spacechase0, yoseiri, bcmpinc	no errors
-+ Boogies Clean Crafting 1.4.0
++	Boogies Clean Crafting 1.4.0
 +	Convenient Chests 1.5.2-unofficial.1-Quintin	aEnigma	no errors
 +	Context-Sensitive Gift Cursor for Stardew Valley 1.2.1	Vanguard3000	no errors
 +	Crop Transplant Mod 1.2.0	Digus	no errors *Evelyn note*
-+ Evelyn Heart Level Garden Pot Gift 1.0.1
++	Evelyn Heart Level Garden Pot Gift 1.0.1
++	Fast Animations 1.9.4	Pathoschild	no errors
++	Friends Forever 1.2.3	Isaac S.	no errors
 
 
 
@@ -86,6 +88,7 @@ My list of mods plus a few alternatives based on personal taste
 ### Fishing
 + More Fish 4.2.4
 ### Crops
++ Farmer to Florist 3.0.9
 + Lumisteria Flowers and Crops 1.0.2
 + Lumisteria Small Fruit Trees for Json Assets 1.0.3
 
@@ -94,12 +97,24 @@ My list of mods plus a few alternatives based on personal taste
 + [CP] Alchemy_Shop 1.4.0
 + [CP] Artisan Valley 3.0.20
 + [CP] Dairy and Egg Product Overhaul 1.1.0
++ Eatums 2.3.0
++ Even More Recipes for JsonAssets 1.5.11
 + [CP] Witchy Valley 1.1.1
 
 ### Hair and Clothing
 *GET GLAM NOTICE*
 + A collection of Coii's Basic Shirts & Coii's Girls Set for JsonAssets 1.0.0
 + A collection of shirts from a bunch of different media. 1.2.0
++ [GG] Pointy Shoes 2.0.0
++ Ace's Hairstyles for Get Glam 2.0.3
++ Aqua's Complete Compilation Hair Pack! 1.2.0
++ Barber-ella 1.0.0
++ Colorful Braids 1.0.0
++ Get Dressed Pack 1.0.1
++ Lakoria's Vibrant Hair for GetGlam 1.0.1
++ Lumisteria Hairstyles 1.0.0
++ More Accessories 1.0.0
++ Yoseiri's Hairstyles 2.0 for Get Glam 3.0.0
 
 ### Animals
 +	Adopt & Skin 3.2.0-beta.1.6	Gathouria
@@ -145,6 +160,7 @@ My list of mods plus a few alternatives based on personal taste
 + [CP] Ferngill Revenue Service 1.0.0
 + Challenging Community Center Bundles 2.1.0
 + [CP] Seed Shortage 1.4.1
+
 
 
 
@@ -206,7 +222,7 @@ My list of mods plus a few alternatives based on personal taste
 +	Dynamic Night Time 1.3.7	Sakorona	no errors
 
 
-+	Event Repeater 5.3.0	MissCoriel	no errors
+
 
 +	Expanded Storage 1.2.0 by furyx639
 + Alternate Storage 1.0.0 by marksmango (I made this!)
@@ -221,25 +237,16 @@ My list of mods plus a few alternatives based on personal taste
 + LASV Forage 1.10.11
 + Lumisteria Flowers and Crops Spawn 1.0.0
 + RSV Forage 1.10.11
-+ Stardew Valley Expanded Forage Locations 1.12.5
-+ Stardew Valley Expanded Forage Locations - Immersive Farm 2 1.12.5
-+	Fast Animations 1.9.4	Pathoschild	no errors
-+	FerngillRevenueService 1.1.2	KarratKake	no errors
+
+
+
 +	Festival of the Mundane 1.1.2	MouseyPounds and Mr. Podunkian	no errors
 +	Fish Info 1.5.0	Speshkitty	no errors
-+	Friends Forever 1.2.3	Isaac S.	no errors
+
 
 +	Get Glam 1.1.0
-+ [GG] Pointy Shoes 2.0.0
-+ Ace's Hairstyles for Get Glam 2.0.3
-+ Aqua's Complete Compilation Hair Pack! 1.2.0
-+ Barber-ella 1.0.0
-+ Colorful Braids 1.0.0
-+ Get Dressed Pack 1.0.1
-+ Lakoria's Vibrant Hair for GetGlam 1.0.1
-+ Lumisteria Hairstyles 1.0.0
-+ More Accessories 1.0.0
-+ Yoseiri's Hairstyles 2.0 for Get Glam 3.0.0
+
+
 +	Grass Adjustor 1.0.2	Jellypowered	no errors
 +	HelpWantedQuestFixes 1.2.0	Pokeytax	no errors
 
@@ -264,9 +271,9 @@ My list of mods plus a few alternatives based on personal taste
 + Champagne Wishes 1.0.3
 + Cherry Blossom Cafe 1.0.2
 + Denver's Necklace 2.1.0
-+ Eatums 2.3.0
-+ Even More Recipes for JsonAssets 1.5.11
-+ Farmer to Florist 3.0.9
+
+
+
 + Festival of the Mundane Hat Pack 1.1.1
 + Fruits and Veggies for JsonAssets 2.0.14
 + Hisame More Recipes 1.0.2
