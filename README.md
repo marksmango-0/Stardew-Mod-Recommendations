@@ -19,11 +19,17 @@ My list of mods plus a few alternatives based on personal taste
 
 +	AntiSocial NPCs 1.0.2	Super Aardvark	no errors
 +	CustomMusic 1.8.0 *note*
++	Custom NPC Exclusions 1.2.0	Esca	no errors
++	Custom NPC Fixes 1.2.2	spacechase0	no errors
++ Custom Crafting Stations 1.1.3
+
 ## Functionality
 +	AudioDevices 3.0.1	Max Vollmer	no errors
 +	Automate 1.19.1	Pathoschild	no errors
++	Better Jukebox 1.2.0	Gaphodil	no errors
 +	Bus Locations 1.0.7
 + Chat Commands 1.15.2	Cat	no errors
+
 +	Generic Mod Config Menu 1.2.1	spacechase0	no errors
 + ZoomLevel 1.2.0	thespbgamer	no errors
 
@@ -32,154 +38,173 @@ My list of mods plus a few alternatives based on personal taste
 
 +	AutomaticGates 2.5.1	Rakiin aKa ScheKaa	no errors
 +	AutoAnimalDoors 2.3.1-unofficial.4-Quintin	Aaron Taggart	no errors
++	Bigger Backpack 3.0.0	spacechase0, yoseiri, bcmpinc	no errors
++ Boogies Clean Crafting 1.4.0
++	Convenient Chests 1.5.2-unofficial.1-Quintin	aEnigma	no errors
++	Context-Sensitive Gift Cursor for Stardew Valley 1.2.1	Vanguard3000	no errors
++	Crop Transplant Mod 1.2.0	Digus	no errors *Evelyn note*
++ Evelyn Heart Level Garden Pot Gift 1.0.1
+
+
 
 ## Content
+
+### Audio
++ Thunder and Frog Sounds 1.0.1
 
 ### Locations
 + CP Boarding House 3.4.1
 + [CP] East Scarpe 1.5.7
 + [BL] Desert 1.0.7
 + [BL] GardenVillage 1.4.4
++ [CP] Khadija's Recipe Shop 1.2.8
++ Museum Expansion CP 1.9.13
 + Ridgeside Village 1.1.4
-
-### Fishing
-+ More Fish 4.2.4
-### Crops
-
-### Crafting and Recipes
-
-### Animals
-+	Adopt & Skin 3.2.0-beta.1.6	Gathouria
-+	Animal Husbandry Mod 2.5.0-beta2	Digus
-
-### Farm Maps
-
-### NPCs
-
-+ Beatrice 1.0.0
-+ Denver 2.7.1
-
-### Flavor
-
-## Difficulty Mods 
-
-+	AnimalsNeedWater 1.2.2	GZhynko	no errors
-+ [CP] Ferngill Revenue Service 1.0.0
-+ Challenging Community Center Bundles 2.1.0
++ Stardew Aquarium [CP] 1.3.0
 
 
-
-# Raw dump
-
++ Stardew Valley Expanded 1.12.5 *NOTE*
 
 
 
 +	[DW]EvenMoreDeepWoods 3.0.0	Max Vollmer
 
-+	Artifact System Fixed 1.0.3-unofficial.1-Xebeth	Ilyaki	no errors
-+	Better Artisan Good Icons 1.5.0
-+ Champagne Grape for BAGI 1.0.2
-+ PPJA Better Artisan Goods Icon Pack 1.2.3
-+ PPJA Farmer to Florist Icon Pack 1.0.0
-+	Better Jukebox 1.2.0	Gaphodil	no errors
-+	Better Mixed Seeds 3.0.1	Satozaki	no errors
-+	Better Quality, More Seeds 2.0.0-5	Brandon Marquis Markail Green (Space Baby)	no errors
-+	Better Ranching 1.8.0	Urbanyeti	no errors
-+	Bigger Backpack 3.0.0	spacechase0, yoseiri, bcmpinc	no errors
+### Building Adjustments and recolors
++ DexMods Cozier Default Farmhouses 2.2.0
 
++ Earthy Recolour 1.1.3
++ Earthy Recolour Fix for Ace's Farms Expanded 1.0.0
++ Earthy Recolour Fix for SVE 1.1.0
 
++ Elle's Seasonal Buildings 1.3.1
 
++ grapeponta's Vanilla Interiors 1.8.1
++ Rustic Country Town Interior 1.7.0
 
++ Stardew Foliage Redone Foliage Only 1.5.0
+
+### Fishing
++ More Fish 4.2.4
+### Crops
++ Lumisteria Flowers and Crops 1.0.2
++ Lumisteria Small Fruit Trees for Json Assets 1.0.3
+
+### Crafting and Recipes
 
 + [CP] Alchemy_Shop 1.4.0
 + [CP] Artisan Valley 3.0.20
 + [CP] Dairy and Egg Product Overhaul 1.1.0
-
-
-+ [CP] Khadija's Recipe Shop 1.2.8
-+ [CP] Seed Shortage 1.4.1
 + [CP] Witchy Valley 1.1.1
+
+### Hair and Clothing
+*GET GLAM NOTICE*
++ A collection of Coii's Basic Shirts & Coii's Girls Set for JsonAssets 1.0.0
++ A collection of shirts from a bunch of different media. 1.2.0
+
+### Animals
++	Adopt & Skin 3.2.0-beta.1.6	Gathouria
++	Animal Husbandry Mod 2.5.0-beta2	Digus
++	Better Ranching 1.8.0	Urbanyeti	no errors
+
+### Farm Maps
 + Ace Farms Expanded 9.2.0-beta7
++ Immersive Farm 2 Remastered 1.12.5
+
+### NPCs
+
++ Beatrice 1.0.0
++ Custom NPC - Nagito 1.5.2
++ Denver 2.7.1
++ NPC Jasper 1.3.1
+
++ Lunna - Astray in StardewValley 3.3.0
++ Lunna - Astray in StardewValley SDVR2 Patch 3.0.0
 + AlternatePortraits Lunna 1.0.0
+
++ Lyell 1.8.2
+
++ Sorren Original NPC 1.1.2
+
++ Canon-Friendly Dialogue Expansion for All Friend-able Characters for Content Patcher 2.0.2
+
+### Flavor and Minor Visual Tweaks
+
 + Animated Furniture and Stuff 1.1.0
 + Animated Mining Pack 1.1.0
-
-+ Boogies Clean Crafting 1.4.0
-+ Canon-Friendly Dialogue Expansion for All Friend-able Characters for Content Patcher 2.0.2
-+ Community Center 1.1.0
-
-+ CP_Lamps 1.0.0
-+ Custom NPC - Nagito 1.5.2
-+ DaisyNiko's Tilesheets 1.4.0
 + Darker Fences 1.0.0
 + Darker Paths&Floors 1.1.0
++ Kats High Vis Fertilizer 1.0.0
++ PPJA Better Artisan Goods Icon Pack 1.2.3
++ PPJA Farmer to Florist Icon Pack 1.0.0
++ ReadersDigestContent 1.1.0
+
+## Difficulty Mods 
+
++	AnimalsNeedWater 1.2.2	GZhynko	no errors
+
++ [CP] Ferngill Revenue Service 1.0.0
++ Challenging Community Center Bundles 2.1.0
++ [CP] Seed Shortage 1.4.1
 
 
-+ DexMods Cozier Default Farmhouses 2.2.0
-+ Earthy Recolour 1.1.3
-+ Earthy Recolour Fix for Ace's Farms Expanded 1.0.0
-+ Earthy Recolour Fix for SVE 1.1.0
-+ Elle's Seasonal Buildings 1.3.1
-+ Evelyn Heart Level Garden Pot Gift 1.0.1
+
+# Raw dump
++	Artifact System Fixed 1.0.3-unofficial.1-Xebeth	Ilyaki	no errors
++	Better Artisan Good Icons 1.5.0
++ Champagne Grape for BAGI 1.0.2
++	Better Mixed Seeds 3.0.1	Satozaki	no errors
++	Better Quality, More Seeds 2.0.0-5	Brandon Marquis Markail Green (Space Baby)	no errors
++ Community Center 1.1.0
++ CP_Lamps 1.0.0
++ DaisyNiko's Tilesheets 1.4.0
 + Farmer to Florist Context Tag Swap 3.0.9
 + Garden Village 1.4.4
 + Garden Village NPCs 1.4.4
-+ grapeponta's Vanilla Interiors 1.8.1
 + Hisame Pack Craftables CP 1.1.0
-+ Immersive Farm 2 Remastered 1.12.5
 + Jacob & Eloise 1.5.7
 + Juliet, Jessie and Lodging House 1.0.2
-+ Kats High Vis Fertilizer 1.0.0
 + Lumisteria Festival Additions 1.0.0
 + Lumisteria Special Orders 1.0.1
-+ Lunna - Astray in StardewValley 3.3.0
-+ Lunna - Astray in StardewValley SDVR2 Patch 3.0.0
-+ Lyell 1.8.2
-
-+ Museum Expansion CP 1.9.13
-+ NPC Jasper 1.3.1
 + Options 1.0.1
 + Papaya's Custom NPC Mod 1.2.0
-+ ReadersDigestContent 1.1.0
 
-+ Rustic Country Town Interior 1.7.0
+
+
 + Seasonal Display Background 1.0.2
 + Seasonal Outfits - SVE 1.4.2
 + Seasonal Outfits for LASV 3.0.0
 + Seasonal Villager Outfits for ContentPatcher 2.3.2
-+ Sorren Original NPC 1.1.2
-+ Stardew Aquarium [CP] 1.3.0
-+ Stardew Aquarium NPCs [CP] 1.3.0
-+ Stardew Foliage Redone Foliage Only 1.5.0
-+ Stardew Valley Expanded 1.12.5
+
+
+
+
+
 + Terracotta Garden Pots 1.0.0
 + Vanilla Gothic Abigail 1.4.0
 + Vibrant Pastoral for SVE 0.2.0
 + Walk to Desert Content Patcher 1.1.1
 + Walk to the Desert NPCs 1.1.0
 +	Content Patcher Animations 1.1.7	spacechase0	1 error
-+	Context-Sensitive Gift Cursor for Stardew Valley 1.2.1	Vanguard3000	no errors
-+	Convenient Chests 1.5.2-unofficial.1-Quintin	aEnigma	no errors
-+	Crop Transplant Mod 1.2.0	Digus	no errors
+
+
 +	Custom Cask Mod 1.2.2
 + [CCM] Artisan Valley 3.0.2
 + [CCM] Dairy and Egg Product Overhaul 1.1.0
-+ Custom Crafting Stations 1.1.3
+
 + [CCS] Advanced Farming 1.3.1
 + [CCS] Witchy Valley 1.1.1
-+	Custom NPC Exclusions 1.2.0	Esca	no errors
-+	Custom NPC Fixes 1.2.2	spacechase0	no errors
+
 
 + LyellsMusic 1.0.0
 + Mancer's Music Pack 0.5.0
 + Ridgeside Village Music Files 1.0.3
 + Stardew Valley Expanded Custom Music 1.12.5
-+ Thunder and Frog Sounds 1.0.1
+
 +	DailyTasksReport 1.4.1-unofficial.7-prism99	GuiNoya	no errors
 +	Deep Woods 1.9.6-beta	Max Vollmer	no errors
 +	Displays 1.0.1	spacechase0	no errors
 +	Dynamic Night Time 1.3.7	Sakorona	no errors
-+	East Scarpe (SMAPI) 1.5.7	LemurKat and kdau	no errors
+
 
 +	Event Repeater 5.3.0	MissCoriel	no errors
 
@@ -228,8 +253,7 @@ My list of mods plus a few alternatives based on personal taste
 + [JA] Korea Blossom 1.7.1
 + [JA] The Beach Bar 1.0.0
 + [JA] Witchy Valley SVE 1.1.1
-+ A collection of Coii's Basic Shirts & Coii's Girls Set for JsonAssets 1.0.0
-+ A collection of shirts from a bunch of different media. 1.2.0
+
 + Alternate Storage (JA) 1.0.0
 + AquaRC Hats Pack 1.2.0
 + Aquilegia's Sweet Tooth 1.5.3
@@ -255,8 +279,7 @@ My list of mods plus a few alternatives based on personal taste
 + Kisekae Skirts 1.0.0
 + Layla's Shirt Store 5.0.0
 + Lost Valley Forageables 5.0.0
-+ Lumisteria Flowers and Crops 1.0.2
-+ Lumisteria Small Fruit Trees for Json Assets 1.0.3
+
 + Lumisteria's Clothes 1.1.0
 + Lunna JsonAssets 3.0.0
 + Mineral Mage Items 1.0.1
