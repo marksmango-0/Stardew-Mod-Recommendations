@@ -2,23 +2,70 @@
 My list of mods plus a few alternatives based on personal taste
 
 ## Core mods and Frameworks
++	SMAPI 3.8.3	Pathoschild
++ Console Commands 3.8.3	SMAPI	no errors
 
++ Content Patcher 1.19.3
+
++	Json Assets 1.7.3
+
++	Farm Type Manager 1.13.1
+
++	Expanded Preconditions Utility 1.0.1	Cherry	no errors
++	Mail Framework Mod 1.8.0
++	ImagEd 1.1.0	Candidus42	no errors
+
++	Entoarox Framework 2.5.2	Entoarox	no errors
+
++	AntiSocial NPCs 1.0.2	Super Aardvark	no errors
++	CustomMusic 1.8.0 *note*
 ## Functionality
++	AudioDevices 3.0.1	Max Vollmer	no errors
++	Automate 1.19.1	Pathoschild	no errors
++	Bus Locations 1.0.7
++ Chat Commands 1.15.2	Cat	no errors
++	Generic Mod Config Menu 1.2.1	spacechase0	no errors
++ ZoomLevel 1.2.0	thespbgamer	no errors
+
 
 ## Quality of Life
 
++	AutomaticGates 2.5.1	Rakiin aKa ScheKaa	no errors
++	AutoAnimalDoors 2.3.1-unofficial.4-Quintin	Aaron Taggart	no errors
+
 ## Content
 
+### Locations
++ CP Boarding House 3.4.1
++ [CP] East Scarpe 1.5.7
++ [BL] Desert 1.0.7
++ [BL] GardenVillage 1.4.4
++ Ridgeside Village 1.1.4
+
+### Fishing
++ More Fish 4.2.4
 ### Crops
 
-### Recipes
+### Crafting and Recipes
+
+### Animals
++	Adopt & Skin 3.2.0-beta.1.6	Gathouria
++	Animal Husbandry Mod 2.5.0-beta2	Digus
+
+### Farm Maps
 
 ### NPCs
 
++ Beatrice 1.0.0
++ Denver 2.7.1
+
 ### Flavor
 
+## Difficulty Mods 
 
-
++	AnimalsNeedWater 1.2.2	GZhynko	no errors
++ [CP] Ferngill Revenue Service 1.0.0
++ Challenging Community Center Bundles 2.1.0
 
 
 
@@ -26,17 +73,10 @@ My list of mods plus a few alternatives based on personal taste
 
 
 
-+	SMAPI 3.8.3	Pathoschild
+
 +	[DW]EvenMoreDeepWoods 3.0.0	Max Vollmer
-+	Adopt & Skin 3.2.0-beta.1.6	Gathouria
-+	Animal Husbandry Mod 2.5.0-beta2	Digus
-+	AnimalsNeedWater 1.2.2	GZhynko	no errors
-+	AntiSocial NPCs 1.0.2	Super Aardvark	no errors
+
 +	Artifact System Fixed 1.0.3-unofficial.1-Xebeth	Ilyaki	no errors
-+	AudioDevices 3.0.1	Max Vollmer	no errors
-+	AutoAnimalDoors 2.3.1-unofficial.4-Quintin	Aaron Taggart	no errors
-+	Automate 1.19.1	Pathoschild	no errors
-+	AutomaticGates 2.5.1	Rakiin aKa ScheKaa	no errors
 +	Better Artisan Good Icons 1.5.0
 + Champagne Grape for BAGI 1.0.2
 + PPJA Better Artisan Goods Icon Pack 1.2.3
@@ -46,20 +86,16 @@ My list of mods plus a few alternatives based on personal taste
 +	Better Quality, More Seeds 2.0.0-5	Brandon Marquis Markail Green (Space Baby)	no errors
 +	Better Ranching 1.8.0	Urbanyeti	no errors
 +	Bigger Backpack 3.0.0	spacechase0, yoseiri, bcmpinc	no errors
-+	Bus Locations 1.0.7
-+ [BL] Desert 1.0.7
-+ [BL] GardenVillage 1.4.4
-+ Challenging Community Center Bundles 2.1.0
-+ Challenging Community Center Bundles - PPJA SVE Bundle Pack 2.1.0
-+ Challenging Community Center Bundles - Vanilla Bundle Pack 2.1.0
-+ Chat Commands 1.15.2	Cat	no errors
-+ Console Commands 3.8.3	SMAPI	no errors
-+ Content Patcher 1.19.3
+
+
+
+
+
 + [CP] Alchemy_Shop 1.4.0
 + [CP] Artisan Valley 3.0.20
 + [CP] Dairy and Egg Product Overhaul 1.1.0
-+ [CP] East Scarpe 1.5.7
-+ [CP] Ferngill Revenue Service 1.0.0
+
+
 + [CP] Khadija's Recipe Shop 1.2.8
 + [CP] Seed Shortage 1.4.1
 + [CP] Witchy Valley 1.1.1
@@ -67,18 +103,18 @@ My list of mods plus a few alternatives based on personal taste
 + AlternatePortraits Lunna 1.0.0
 + Animated Furniture and Stuff 1.1.0
 + Animated Mining Pack 1.1.0
-+ Beatrice 1.0.0
+
 + Boogies Clean Crafting 1.4.0
 + Canon-Friendly Dialogue Expansion for All Friend-able Characters for Content Patcher 2.0.2
 + Community Center 1.1.0
-+ CP Boarding House 3.4.1
+
 + CP_Lamps 1.0.0
 + Custom NPC - Nagito 1.5.2
 + DaisyNiko's Tilesheets 1.4.0
 + Darker Fences 1.0.0
 + Darker Paths&Floors 1.1.0
-+ Denver 2.7.1
-+ Denver's kids 1.0.1
+
+
 + DexMods Cozier Default Farmhouses 2.2.0
 + Earthy Recolour 1.1.3
 + Earthy Recolour Fix for Ace's Farms Expanded 1.0.0
@@ -99,16 +135,13 @@ My list of mods plus a few alternatives based on personal taste
 + Lunna - Astray in StardewValley 3.3.0
 + Lunna - Astray in StardewValley SDVR2 Patch 3.0.0
 + Lyell 1.8.2
-+ More Fish 4.2.4
+
 + Museum Expansion CP 1.9.13
 + NPC Jasper 1.3.1
 + Options 1.0.1
 + Papaya's Custom NPC Mod 1.2.0
 + ReadersDigestContent 1.1.0
-+ Ridgeside Village 1.1.4
-+ RSV Events 1.0.0
-+ RSV Festival 1.0.0
-+ RSV Patches 1.0.0
+
 + Rustic Country Town Interior 1.7.0
 + Seasonal Display Background 1.0.2
 + Seasonal Outfits - SVE 1.4.2
@@ -136,30 +169,24 @@ My list of mods plus a few alternatives based on personal taste
 + [CCS] Witchy Valley 1.1.1
 +	Custom NPC Exclusions 1.2.0	Esca	no errors
 +	Custom NPC Fixes 1.2.2	spacechase0	no errors
-+	CustomMusic 1.8.0
+
 + LyellsMusic 1.0.0
 + Mancer's Music Pack 0.5.0
 + Ridgeside Village Music Files 1.0.3
 + Stardew Valley Expanded Custom Music 1.12.5
 + Thunder and Frog Sounds 1.0.1
-+ FellowClown
-+ Mancer
-+ Platonymous
-+ FlashShifter
-+ Chrisdegod
 +	DailyTasksReport 1.4.1-unofficial.7-prism99	GuiNoya	no errors
 +	Deep Woods 1.9.6-beta	Max Vollmer	no errors
 +	Displays 1.0.1	spacechase0	no errors
 +	Dynamic Night Time 1.3.7	Sakorona	no errors
 +	East Scarpe (SMAPI) 1.5.7	LemurKat and kdau	no errors
-+	Entoarox Framework 2.5.2	Entoarox	no errors
+
 +	Event Repeater 5.3.0	MissCoriel	no errors
-+	Expanded Preconditions Utility 1.0.1	Cherry	no errors
+
 +	Expanded Storage 1.2.0 by furyx639
 + Alternate Storage 1.0.0 by marksmango (I made this!)
 +	Experience Bars 1.2.1	spacechase0	no errors
 +	Extended Minecart 1.11.0	Entoarox	no errors
-+	Farm Type Manager 1.13.1
 + [FTM] Walk to Desert 1.1.0
 + Challenging Community Center Bundles - Forage Pack 1.0.0
 + Fizzy Drinks Forage 2.2.0
@@ -176,7 +203,7 @@ My list of mods plus a few alternatives based on personal taste
 +	Festival of the Mundane 1.1.2	MouseyPounds and Mr. Podunkian	no errors
 +	Fish Info 1.5.0	Speshkitty	no errors
 +	Friends Forever 1.2.3	Isaac S.	no errors
-+	Generic Mod Config Menu 1.2.1	spacechase0	no errors
+
 +	Get Glam 1.1.0
 + [GG] Pointy Shoes 2.0.0
 + Ace's Hairstyles for Get Glam 2.0.3
@@ -190,8 +217,7 @@ My list of mods plus a few alternatives based on personal taste
 + Yoseiri's Hairstyles 2.0 for Get Glam 3.0.0
 +	Grass Adjustor 1.0.2	Jellypowered	no errors
 +	HelpWantedQuestFixes 1.2.0	Pokeytax	no errors
-+	ImagEd 1.1.0	Candidus42	no errors
-+	Json Assets 1.7.3
+
 + [JA] Advanced Farming 1.3.1
 + [JA] Alchemy Goods 1.4.0
 + [JA] Artisanal Soda Makers 1.3.3
@@ -251,7 +277,7 @@ My list of mods plus a few alternatives based on personal taste
 +	Line Sprinklers 1.2.2-unofficial.1-bigboct	Hootless	no errors
 +	Luck Skill 1.0.1	spacechase0	no errors
 +	Lunar Disturbances 1.4.1	Sakorona	no errors
-+	Mail Framework Mod 1.8.0
+
 + [MFM] Alchemy 1.4.0
 + [MFM] Artisan Valley Letters 3.0.20
 + [MFM] Champagne Wishes 1.0.2
@@ -374,5 +400,5 @@ My list of mods plus a few alternatives based on personal taste
 + Wind Effects 1.0.3-unofficial.1-marksmango	Cat	no errors
 + Winter Grass 2.0.3	Cat	no errors
 + WorkingFireplace 1.5.3	jahangmar	no errors
-+ ZoomLevel 1.2.0	thespbgamer	no errors
+
 
