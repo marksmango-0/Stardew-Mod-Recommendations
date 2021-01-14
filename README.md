@@ -41,11 +41,6 @@ My list of mods plus a few alternatives based on personal taste
 + Champagne Grape for BAGI 1.0.2
 + PPJA Better Artisan Goods Icon Pack 1.2.3
 + PPJA Farmer to Florist Icon Pack 1.0.0
-Cat
-+ fwippy
-+ ProjectPopulateJsonAssets
-+ ProjectPopulateJsonAssets & Kildarien
-no errors
 +	Better Jukebox 1.2.0	Gaphodil	no errors
 +	Better Mixed Seeds 3.0.1	Satozaki	no errors
 +	Better Quality, More Seeds 2.0.0-5	Brandon Marquis Markail Green (Space Baby)	no errors
@@ -54,20 +49,12 @@ no errors
 +	Bus Locations 1.0.7
 + [BL] Desert 1.0.7
 + [BL] GardenVillage 1.4.4
-Hootless
-+ Hootless
-+ Tarniyar
-no errors
-+	Challenging Community Center Bundles 2.1.0
++ Challenging Community Center Bundles 2.1.0
 + Challenging Community Center Bundles - PPJA SVE Bundle Pack 2.1.0
 + Challenging Community Center Bundles - Vanilla Bundle Pack 2.1.0
-alvadea & jaksha
-+ alvadea & jaksha
-+ alvadea & jaksha
-no errors
-+	Chat Commands 1.15.2	Cat	no errors
-+	Console Commands 3.8.3	SMAPI	no errors
-+	Content Patcher 1.19.3
++ Chat Commands 1.15.2	Cat	no errors
++ Console Commands 3.8.3	SMAPI	no errors
++ Content Patcher 1.19.3
 + [CP] Alchemy_Shop 1.4.0
 + [CP] Artisan Valley 3.0.20
 + [CP] Dairy and Egg Product Overhaul 1.1.0
@@ -137,7 +124,6 @@ no errors
 + Vibrant Pastoral for SVE 0.2.0
 + Walk to Desert Content Patcher 1.1.1
 + Walk to the Desert NPCs 1.1.0
-
 +	Content Patcher Animations 1.1.7	spacechase0	1 error
 +	Context-Sensitive Gift Cursor for Stardew Valley 1.2.1	Vanguard3000	no errors
 +	Convenient Chests 1.5.2-unofficial.1-Quintin	aEnigma	no errors
@@ -145,8 +131,6 @@ no errors
 +	Custom Cask Mod 1.2.2
 + [CCM] Artisan Valley 3.0.2
 + [CCM] Dairy and Egg Product Overhaul 1.1.0
-+ Project Populate Json Assets
-+ Zeronacer
 + Custom Crafting Stations 1.1.3
 + [CCS] Advanced Farming 1.3.1
 + [CCS] Witchy Valley 1.1.1
@@ -204,22 +188,10 @@ no errors
 + Lumisteria Hairstyles 1.0.0
 + More Accessories 1.0.0
 + Yoseiri's Hairstyles 2.0 for Get Glam 3.0.0
-MartyrPher
-+ Neweraxen
-+ Acerbicon
-+ Aqua
-+ Poltergeister
-+ Gabett
-+ MartyrPher
-+ Lakoria and Faedelity
-+ Lumisteria
-+ bunsandpugs
-+ Yoseiri (original) Paradigmnomad (updated by)
-no errors
-	Grass Adjustor 1.0.2	Jellypowered	no errors
-	HelpWantedQuestFixes 1.2.0	Pokeytax	no errors
-	ImagEd 1.1.0	Candidus42	no errors
-	Json Assets 1.7.3
++	Grass Adjustor 1.0.2	Jellypowered	no errors
++	HelpWantedQuestFixes 1.2.0	Pokeytax	no errors
++	ImagEd 1.1.0	Candidus42	no errors
++	Json Assets 1.7.3
 + [JA] Advanced Farming 1.3.1
 + [JA] Alchemy Goods 1.4.0
 + [JA] Artisanal Soda Makers 1.3.3
@@ -274,68 +246,12 @@ no errors
 + Seasonal Hats for JsonAssets 1.0.0
 + Starbrew Valley: A Collection of Alcoholic Drinks and Recipes 1.3.14
 + Syds Plaids for JsonAssets 1.0.0
-spacechase0
-+ KateAndSky
-+ zirolive69
-+ Hadi
-+ Hadi
-+ Zeronacer
-+ Dramallama
-+ MelindaC and Fwippy
-+ KAYA
-+ Twinzzies
-+ sopholophagus
-+ Coii (original) PPJA (conversion)
-+ Aqua
-+ marksmango
-+ AquaRC
-+ Aquilegia/AquilegiaStardew
-+ Trent XV
-+ Project Populate JsonAssets
-+ Ritsunesan
-+ BB
-+ fwippy
-+ Fwippy and KAYA
-+ balverines
-+ Zosa
-+ Project Populate JsonAssets
-+ Kildarien (Original assets) + SpringsSong (conversion to JsonAssets)
-+ MouseyPounds, Mr. Podunkian, and mouse
-+ Project Populate JsonAssets
-+ Hisameartwork&TrentXV
-+ Hisameartwork&TrentXV
-+ Hisameartwork&TrentXV
-+ Gweniaczek
-+ LemurKat
-+ Undare
-+ Tarniyar
-+ Original Mod Author: KabigonFirst, Conversion to JA: HeyImAmethyst
-+ Laylaisthename
-+ Trent XV
-+ Lumisteria
-+ Lumisteria
-+ Lumisteria
-+ Rafseazz
-+ Undare
-+ MissyDiabolical (original) PPJA (conversion)
-+ ParadigmNomad & Eemie (Port) & Mizu (Sprites)
-+ Project Populate Json Assets
-+ Project Populate JsonAssets
-+ marksmango
-+ Tarniyar
-+ FlashShifter
-+ Rafseazz
-+ blueberry, edited by marksmango but this shouldn't be public
-+ Beans and Maea
-+ Project Populate JsonAssets
-+ susceptiveGalaxy
-no errors
-	Level Extender 1.5.1	Devin Lematty	no errors
-	Limited Campfire Cooking 1.0.2	Cherry	no errors
-	Line Sprinklers 1.2.2-unofficial.1-bigboct	Hootless	no errors
-	Luck Skill 1.0.1	spacechase0	no errors
-	Lunar Disturbances 1.4.1	Sakorona	no errors
-	Mail Framework Mod 1.8.0
++	Level Extender 1.5.1	Devin Lematty	no errors
++	Limited Campfire Cooking 1.0.2	Cherry	no errors
++	Line Sprinklers 1.2.2-unofficial.1-bigboct	Hootless	no errors
++	Luck Skill 1.0.1	spacechase0	no errors
++	Lunar Disturbances 1.4.1	Sakorona	no errors
++	Mail Framework Mod 1.8.0
 + [MFM] Alchemy 1.4.0
 + [MFM] Artisan Valley Letters 3.0.20
 + [MFM] Champagne Wishes 1.0.2
@@ -352,39 +268,18 @@ no errors
 + [MFM] Walk to the Desert 1.1.0
 + [MFM] Witchy Valley SVE 1.1.1
 + Tailor Mouse MFM Component 2.2.4
-Digus
-+ zirolive69
-+ Project Populate Json Assets
-+ fwippy
-+ Project Populate Json Assets
-+ Project Populate Json Assets
-+ Project Populate Json Assets
-+ Tarniyar
-+ Hadi
-+ Project Populate Json Assets
-+ Project Populate Json Assets
-+ Project Populate Json Assets
-+ LavenderLight
-+ Project Populate Json Assets
-+ Tarniyar
-+ sopholophagus
-+ Project Populate Json Assets
-no errors
-	Monthly Mail 1.0.4	Taskmaster	no errors
-	More Barn and Coop Animals 1.1.1	AairTheGreat	no errors
-	More Grass 1.1.1
++ Monthly Mail 1.0.4	Taskmaster	no errors
++ More Barn and Coop Animals 1.1.1	AairTheGreat	no errors
++ More Grass 1.1.1
 + Realistic Wildflower Grass for More Grass 1.0.0
-Satozaki
-+ Squiver
-no errors
-	More Rings 1.0.4	spacechase0, ParadigmNomad (sprites)	no errors
-	NPC Jasper Dialogue Patch 1.3.1	Jonqora (for Lemurkat)	no errors
-	Part of the Community 1.1.6-3	Brandon Marquis Markail Green (Space Baby)	no errors
-	PFMAutomate 1.2.3	Digus	no errors
-	Pony Weight Loss Program 0.8.2	BadNetCode	no errors
-	Prepare for New Day 1.0.0	igotnousername	no errors
-	Prismatic Tools 1.7.1-unofficial.9-pathoschild	stokastic	no errors
-	Producer Framework Mod 1.5.0
++ More Rings 1.0.4	spacechase0, ParadigmNomad (sprites)	no errors
++ NPC Jasper Dialogue Patch 1.3.1	Jonqora (for Lemurkat)	no errors
++ Part of the Community 1.1.6-3	Brandon Marquis Markail Green (Space Baby)	no errors
++ PFMAutomate 1.2.3	Digus	no errors
++ Pony Weight Loss Program 0.8.2	BadNetCode	no errors
++ Prepare for New Day 1.0.0	igotnousername	no errors
++ Prismatic Tools 1.7.1-unofficial.9-pathoschild	stokastic	no errors
++ Producer Framework Mod 1.5.0
 + [PFM] Advanced Farming 1.3.1
 + [PFM] Alchemy Goods 1.4.0
 + [PFM] Artisan Valley 3.0.20
@@ -407,43 +302,16 @@ no errors
 + Chocolatier 1.0.5
 + Hardew Valley 1.6.5
 + Industrialization for SDV 3.2.6
-Digus
-+ KateAndSky
-+ zirolive69
-+ Project Populate Json Assets
-+ Hadi
-+ Hadi
-+ Ritsunesan
-+ TrentXV
-+ fwippy
-+ Zeronacer
-+ Kildarien (Original) + SpringsSong (Port)
-+ Fwippy and MelindaC
-+ Tarniyar
-+ Undare
-+ Undare
-+ Xynerorias
-+ PPJA
-+ Tarniyar
-+ Wingheart
-+ Fwippy and KAYA
-+ Ritsunesan
-+ Juanpa98ar
-+ DraLUSAD, Kazuakisama
-no errors
-	PyTK 1.21.0	Platonymous	no errors
-	Quest Framework 1.2.1
++ PyTK 1.21.0	Platonymous	no errors
++ Quest Framework 1.2.1
 + RSV QuestFramework 1.0.0
-PurrplingCat
-+ Rafseazz
-no errors
-	Range Highlight 2.2.0	Jamie Taylor	no errors
-	Readers Digest 1.1.0	Remy Bach	no errors
-	Rented Tools 1.2.2-unofficial.1-pathoschild	JarvieK	no errors
-	Running Late 1.2.0	Coll1234567	no errors
-	Save Backup 3.8.3	SMAPI	no errors
-	Seed Shortage 1.4.1	Xynerorias	no errors
-	Shop Tile Framework 1.0.9
++ Range Highlight 2.2.0	Jamie Taylor	no errors
++ Readers Digest 1.1.0	Remy Bach	no errors
++ Rented Tools 1.2.2-unofficial.1-pathoschild	JarvieK	no errors
++ Running Late 1.2.0	Coll1234567	no errors
++ Save Backup 3.8.3	SMAPI	no errors
++ Seed Shortage 1.4.1	Xynerorias	no errors
++ Shop Tile Framework 1.0.9
 + [STF] Alchemy_Shop 1.4.0
 + [STF] Garden Village Shops 1.4.4
 + [STF] Khadija's Recipe Shop 1.2.8
@@ -454,30 +322,18 @@ no errors
 + Stardew Aquarium [STF] 1.3.0
 + Tailor Mouse Clothing Stand 2.2.4
 + The Beach Bar - Shop 1.0.3
-Cherry
-+ zirolive69
-+ Tarniyar
-+ Hadi
-+ Undare
-+ Tarniyar
-+ TrentXV
-+ Andril11
-+ ZarKiiFreemanGervig91
-+ Project Populate Json Assets
-+ Twinzzies
-no errors
-	Simple Crop Label 5.5.6	TheMusketeer	no errors
-	SinglePlayer Regen 1.2.1	MindMeltMax	no errors
-	Skip Intro 1.9.0	Pathoschild	no errors
-	Sleepy Eye 1.0.4	spacechase0	no errors
-	SpaceCore 1.5.2	spacechase0	no errors
-	SpiceOfLife 2.1.0	KarratKake	no errors
-	Stardew Aquarium Code 1.3.0	Cherry	no errors
-	StardewHack 3.0.0	bcmpinc	no errors
-	Teh's Fishing Overhaul 2.1.4	TehPers	no errors
-	The Love of Cooking 1.0.7	blueberry	no errors
-	TimeSpeed 2.4.3	cantorsdust	no errors
-	TMXL Map Toolkit 1.22.0
++ Simple Crop Label 5.5.6	TheMusketeer	no errors
++ SinglePlayer Regen 1.2.1	MindMeltMax	no errors
++ Skip Intro 1.9.0	Pathoschild	no errors
++ Sleepy Eye 1.0.4	spacechase0	no errors
++ SpaceCore 1.5.2	spacechase0	no errors
++ SpiceOfLife 2.1.0	KarratKake	no errors
++ Stardew Aquarium Code 1.3.0	Cherry	no errors
++ StardewHack 3.0.0	bcmpinc	no errors
++ Teh's Fishing Overhaul 2.1.4	TehPers	no errors
++ The Love of Cooking 1.0.7	blueberry	no errors
++ TimeSpeed 2.4.3	cantorsdust	no errors
++ TMXL Map Toolkit 1.22.0
 + [TMX] Alchemy_Shop 1.4.0
 + [TMX] Desert Warp 1.0.6
 + [TMX] Desert Warp SVE 1.0.6
@@ -510,50 +366,13 @@ no errors
 + Stardew Aquarium [TMXL] 1.3.0
 + Stardew Valley Expanded - PyTK 1.12.5
 + TMX Immersive Farm 2 Remastered 1.12.5
-Platonymous
-+ zirolive69
-+ Tarniyar
-+ Tarniyar
-+ LemurKat
-+ Tarniyar
-+ Hadi
-+ Tarniyar
-+ balverines
-+ attonbomb
-+ balverines
-+ TrentXV
-+ Andril11
-+ LemurKat
-+ balverines
-+ FlashShifter
-+ HisameArtworks&TrentXV
-+ LemurKat
-+ LemurKat
-+ LemurKat
-+ LemurKat
-+ Rafseazz
-+ Rafseazz
-+ Fellowclown
-+ Undare
-+ LavenderLight
-+ Rafseazz
-+ Rafseazz
-+ Twinzzies
-+ Papaya
-+ ZarkiiFreemanDraylon.
-+ FlashShifter
-+ FlashShifter
-no errors
-	Tool Upgrade Costs 1.0.0	Cherry	no errors
-	Train Station 1.0.8
++ Tool Upgrade Costs 1.0.0	Cherry	no errors
++ Train Station 1.0.8
 + Stardew Aquarium [TS] 1.3.0
-Cherry
-+ Cherry
-no errors
-	UI Info Suite 1.9.0	Cdaragorn	no errors
-	Wear More Rings 3.4.0	bcmpinc	no errors
-	Wind Effects 1.0.3-unofficial.1-marksmango	Cat	no errors
-	Winter Grass 2.0.3	Cat	no errors
-	WorkingFireplace 1.5.3	jahangmar	no errors
-	ZoomLevel 1.2.0	thespbgamer	no errors
++ UI Info Suite 1.9.0	Cdaragorn	no errors
++ Wear More Rings 3.4.0	bcmpinc	no errors
++ Wind Effects 1.0.3-unofficial.1-marksmango	Cat	no errors
++ Winter Grass 2.0.3	Cat	no errors
++ WorkingFireplace 1.5.3	jahangmar	no errors
++ ZoomLevel 1.2.0	thespbgamer	no errors
 
