@@ -4,6 +4,7 @@ My list of mods plus a few alternatives based on personal taste
 ## Core mods and Frameworks
 +	SMAPI 3.8.3	Pathoschild
 + Console Commands 3.8.3	SMAPI	no errors
++ Save Backup 3.8.3	SMAPI	no errors
 
 + Content Patcher 1.19.3
 
@@ -16,7 +17,9 @@ My list of mods plus a few alternatives based on personal taste
 +	Expanded Preconditions Utility 1.0.1	Cherry	no errors
 +	Mail Framework Mod 1.8.0
 +	ImagEd 1.1.0	Candidus42	no errors
-
++ PyTK 1.21.0	Platonymous	no errors
++ Quest Framework 1.2.1
++ Producer Framework Mod 1.5.0
 +	Entoarox Framework 2.5.2	Entoarox	no errors
 
 +	AntiSocial NPCs 1.0.2	Super Aardvark	no errors
@@ -25,21 +28,35 @@ My list of mods plus a few alternatives based on personal taste
 +	Custom NPC Fixes 1.2.2	spacechase0	no errors
 + Custom Crafting Stations 1.1.3
 +	Content Patcher Animations 1.1.7	spacechase0	1 error
++ Shop Tile Framework 1.0.9
++ StardewHack 3.0.0	bcmpinc	no errors
 + TMXL Map Toolkit 1.22.0
 
 ## Functionality and Fixes
++	Artifact System Fixed 1.0.3-unofficial.1-Xebeth	Ilyaki	no errors
 +	AudioDevices 3.0.1	Max Vollmer	no errors
 +	Automate 1.19.1	Pathoschild	no errors
+++ PFMAutomate 1.2.3	Digus	no errors
 +	Better Jukebox 1.2.0	Gaphodil	no errors
 +	Bus Locations 1.0.7
 +	Chat Commands 1.15.2	Cat	no errors
 +	Event Repeater 5.3.0	MissCoriel	no errors
 +	Generic Mod Config Menu 1.2.1	spacechase0	no errors
 +	HelpWantedQuestFixes 1.2.0	Pokeytax	no errors
++	Level Extender 1.5.1	Devin Lematty	no errors
++	Limited Campfire Cooking 1.0.2	Cherry	no errors
++	Luck Skill 1.0.1	spacechase0	no errors
++ Lumisteria Festival Additions 1.0.0
++ Lumisteria Special Orders 1.0.1
++ Part of the Community 1.1.6-3	Brandon Marquis Markail Green (Space Baby)	no errors
++ SinglePlayer Regen 1.2.1	MindMeltMax	no errors
 + SpiceOfLife 2.1.0	KarratKake	no errors
 + The Love of Cooking 1.0.7	blueberry	no errors
 + TimeSpeed 2.4.3	cantorsdust	no errors
 +	ZoomLevel 1.2.0	thespbgamer	no errors
+
+
+
 
 
 ## Quality of Life and UI changes
@@ -59,9 +76,12 @@ My list of mods plus a few alternatives based on personal taste
 +	Friends Forever 1.2.3	Isaac S.	no errors
 +	Fish Info 1.5.0	Speshkitty	no errors
 + Pony Weight Loss Program 0.8.2	BadNetCode	no errors
++ Prepare for New Day 1.0.0	igotnousername	no errors
++ Rented Tools 1.2.2-unofficial.1-pathoschild	JarvieK	no errors
++ Range Highlight 2.2.0	Jamie Taylor	no errors
 + Running Late 1.2.0	Coll1234567	no errors
++ Simple Crop Label 5.5.6	TheMusketeer	no errors
 + Skip Intro 1.9.0	Pathoschild	no errors
-+ Teh's Fishing Overhaul 2.1.4	TehPers	no errors
 + UI Info Suite 1.9.0	Cdaragorn	no errors
 + Wear More Rings 3.4.0	bcmpinc	no errors
 
@@ -90,9 +110,10 @@ My list of mods plus a few alternatives based on personal taste
 
 + Stardew Foliage Redone Foliage Only 1.5.0
 
-### Crafting and Recipes
+### Crops, Crafting, and Recipes
 
 + [MFM] Alchemy 1.4.0
++ [JA] Advanced Farming 1.3.1
 + Aquilegia's Sweet Tooth 1.5.3
 + [CP] Artisan Valley 3.0.20
 + [JA] Artisanal Soda Makers 1.3.3
@@ -107,9 +128,10 @@ My list of mods plus a few alternatives based on personal taste
 + Hisame More Recipes 1.0.2
 + Hisame Pack Craftables 1.1.0
 + Industrialization for SDV 3.2.6
++	Line Sprinklers 1.2.2-unofficial.1-bigboct	Hootless	no errors
 + Mizu's Flowers for JsonAssets 1.6.7
-
-
++ More Food: A Collection of Recipes for JsonAssets 1.9.11
++ [MFM] More Recipes 1.9.11
 + [JA] Fizzy Drinks 2.2.0
 + [JA] Korea Blossom 1.7.1
 + [PFM] Farmer to Florist 3.0.9
@@ -118,6 +140,14 @@ My list of mods plus a few alternatives based on personal taste
 + Eatums 2.3.0
 + Even More Recipes for JsonAssets 1.5.11
 + [CP] Witchy Valley 1.1.1
++ [PFM]Quality Artisan Products 1.0.4-1
++ [MFM] Starbrew Valley 1.3.14
++ [MFM] Witchy Valley SVE 1.1.1
++ [MFM] Champagne Wishes 1.0.2
++ [MFM] Even More Recipes 1.5.11
++ [MFM] Farmer to Florist 3.0.9
++ [MFM] Fruits and Veggies 2.0.14
++ Mineral Guild Shops 1.0.1
 
 ### Crops
 +	Better Mixed Seeds 3.0.1	Satozaki	no errors
@@ -125,19 +155,24 @@ My list of mods plus a few alternatives based on personal taste
 + Farmer to Florist 3.0.9
 + Lumisteria Flowers and Crops 1.0.2
 + Lumisteria Small Fruit Trees for Json Assets 1.0.3
-+ More Food: A Collection of Recipes for JsonAssets 1.9.11
+
 + More Trees for JsonAssets 1.6.10
 + Mulch 1.0.0
 
+### Equipment, Tools, and Weapons
++ More Rings 1.0.4	spacechase0, ParadigmNomad (sprites)	no errors
++ Prismatic Tools 1.7.1-unofficial.9-pathoschild	stokastic	no errors
 
 ### Furniture
 *Anything labeled with CF is unavailable until Custom Furniture updates*
 +	Displays 1.0.1	spacechase0	no errors
++	Expanded Storage 1.2.0 by furyx639
 + Alternate Storage 1.0.0 by marksmango (I made this!)
 
 ### Locations
 + CP Boarding House 3.4.1
 + BusStop Expansion Expansion 3.3.3
++ Community Center Reimagined 1.1.0
 + [CP] East Scarpe 1.5.7
 + [BL] Desert 1.0.7
 +	Deep Woods 1.9.6-beta	Max Vollmer	no errors
@@ -153,6 +188,7 @@ My list of mods plus a few alternatives based on personal taste
 + Tailor Mouse Clothing Stand 2.2.4
 + Train Station 1.0.8
 + Walk to the Desert NPCs 1.1.0
++ Mermaid Island 3.1.2
 
 ### Farm Maps
 + Ace Farms Expanded 9.2.0-beta7
@@ -160,6 +196,7 @@ My list of mods plus a few alternatives based on personal taste
 
 ### Fishing
 + More Fish 4.2.4
++ Teh's Fishing Overhaul 2.1.4	TehPers	no errors
 
 ### Hair and Clothing
 +	Get Glam 1.1.0
@@ -178,13 +215,12 @@ My list of mods plus a few alternatives based on personal taste
 + Lakoria's Vibrant Hair for GetGlam 1.0.1
 + Layla's Shirt Store 5.0.0
 + Lumisteria Hairstyles 1.0.0
++ Lumisteria's Clothes 1.1.0
++ Missy's Shirts for JsonAssets 1.0.0
 + More Accessories 1.0.0
++ Seasonal Hats for JsonAssets 1.0.0
 + Syds Plaids for JsonAssets 1.0.0
 + Yoseiri's Hairstyles 2.0 for Get Glam 3.0.0
-
-
-
-
 
 ### NPCs
 
@@ -197,6 +233,7 @@ My list of mods plus a few alternatives based on personal taste
 + Lunna - Astray in StardewValley SDVR2 Patch 3.0.0
 + AlternatePortraits Lunna 1.0.0
 + Lyell 1.8.2
++ Nagito Spouse Room and Locations 1.0.0
 + Sorren Original NPC 1.1.2
 
 + Canon-Friendly Dialogue Expansion for All Friend-able Characters for Content Patcher 2.0.2
@@ -213,6 +250,7 @@ My list of mods plus a few alternatives based on personal taste
 +	Grass Adjustor 1.0.2	Jellypowered	no errors
 + Kats High Vis Fertilizer 1.0.0
 +	Lunar Disturbances 1.4.1	Sakorona	no errors
++ Monthly Mail 1.0.4	Taskmaster	no errors
 + More Grass 1.1.1
 + PPJA Better Artisan Goods Icon Pack 1.2.3
 + PPJA Farmer to Florist Icon Pack 1.0.0
@@ -220,13 +258,11 @@ My list of mods plus a few alternatives based on personal taste
 + Realistic Wildflower Grass for More Grass 1.0.0
 + Seasonal Villager Outfits for ContentPatcher 2.3.2
 + Seasonal Display Background 1.0.2
++ Sleepy Eye 1.0.4	spacechase0	no errors
 + Terracotta Garden Pots 1.0.0
 + Wind Effects 1.0.3-unofficial.1-marksmango	Cat	no errors
 + Winter Grass 2.0.3	Cat	no errors
 + WorkingFireplace 1.5.3	jahangmar	no errors
-
-
-
 
 ## Difficulty Mods 
 
@@ -238,26 +274,18 @@ My list of mods plus a few alternatives based on personal taste
 + Tool Upgrade Costs 1.0.0	Cherry	no errors
 + WorkingFireplace 1.5.3	jahangmar	no errors
 
-
-
 # Raw dump
-+	Artifact System Fixed 1.0.3-unofficial.1-Xebeth	Ilyaki	no errors
-+ Champagne Grape for BAGI 1.0.2
-+ Community Center 1.1.0
+
+
 + CP_Lamps 1.0.0
 + DaisyNiko's Tilesheets 1.4.0
 + Farmer to Florist Context Tag Swap 3.0.9
-+ Lumisteria Festival Additions 1.0.0
-+ Lumisteria Special Orders 1.0.1
+
 + Options 1.0.1
 + Papaya's Custom NPC Mod 1.2.0
-+ Vanilla Gothic Abigail 1.4.0
+
 + Vibrant Pastoral for SVE 0.2.0
 + [CCM] Dairy and Egg Product Overhaul 1.1.0
-+ [CCS] Advanced Farming 1.3.1
-+	Expanded Storage 1.2.0 by furyx639
-+ [JA] Advanced Farming 1.3.1
-+ [JA] Alchemy Goods 1.4.0
 + [JA] Dairy and Egg Product Overhaul 1.1.0
 + [JA] First Clothing Mod 1.0.0
 + [JA] The Beach Bar 1.0.0
@@ -267,95 +295,13 @@ My list of mods plus a few alternatives based on personal taste
 + Island Fruits 1.0.3
 + JA_Lamps 1.0.0
 + Jewelcraft Goods 3.0.3
-+ Lumisteria's Clothes 1.1.0
-+ Mineral Mage Items 1.0.1
-+ Missy's Shirts for JsonAssets 1.0.0
 
 + Sailor Styles - Content Only 1.0.0
-+ Seasonal Hats for JsonAssets 1.0.0
 + Starbrew Valley: A Collection of Alcoholic Drinks and Recipes 1.3.14
 
-+	Level Extender 1.5.1	Devin Lematty	no errors
-+	Limited Campfire Cooking 1.0.2	Cherry	no errors
-+	Line Sprinklers 1.2.2-unofficial.1-bigboct	Hootless	no errors
-+	Luck Skill 1.0.1	spacechase0	no errors
-
-
-
-+ [MFM] Artisan Valley Letters 3.0.20
-+ [MFM] Champagne Wishes 1.0.2
-+ [MFM] Even More Recipes 1.5.11
-+ [MFM] Farmer to Florist 3.0.9
-+ [MFM] Fruits and Veggies 2.0.14
-+ [MFM] Khadija's Recipe Shop 1.2.8
-+ [MFM] Mizu's Flowers 1.6.7
-+ [MFM] More Recipes 1.9.11
-+ [MFM] More Trees 1.6.10
-+ [MFM] Nagito Letters 1.0.0
-+ [MFM] Starbrew Valley 1.3.14
-+ [MFM] Walk to the Desert 1.1.0
-+ [MFM] Witchy Valley SVE 1.1.1
-+ Tailor Mouse MFM Component 2.2.4
-+ Monthly Mail 1.0.4	Taskmaster	no errors
-
-+ More Rings 1.0.4	spacechase0, ParadigmNomad (sprites)	no errors
-+ Part of the Community 1.1.6-3	Brandon Marquis Markail Green (Space Baby)	no errors
-+ PFMAutomate 1.2.3	Digus	no errors
-
-+ Prepare for New Day 1.0.0	igotnousername	no errors
-+ Prismatic Tools 1.7.1-unofficial.9-pathoschild	stokastic	no errors
-+ Producer Framework Mod 1.5.0
-+ [PFM] Advanced Farming 1.3.1
-+ [PFM] Alchemy Goods 1.4.0
-+ [PFM] Artisan Valley 3.0.20
-+ [PFM] Artisanal Soda Maker - PPJA and More Fruit Pack 1.3.3
-+ [PFM] Artisanal Soda Makers 1.3.3
-+ [PFM] Baker's Life 1.1.3
-+ [PFM] Boarding House Machines 1.0.0
-+ [PFM] Champagne Wishes 1.0.2
 + [PFM] Dairy and Egg Product Overhaul 1.1.0
-
 + [PFM] Mineral Mage 1.0.1
-+ [PFM] Seed Shortage 1.4.1
-
-
-+ [PFM]Quality Artisan Products 1.0.4-1
-
 + Hardew Valley 1.6.5
-
-+ PyTK 1.21.0	Platonymous	no errors
-+ Quest Framework 1.2.1
-+ RSV QuestFramework 1.0.0
-+ Range Highlight 2.2.0	Jamie Taylor	no errors
 + Readers Digest 1.1.0	Remy Bach	no errors
-+ Rented Tools 1.2.2-unofficial.1-pathoschild	JarvieK	no errors
-
-+ Save Backup 3.8.3	SMAPI	no errors
-+ Seed Shortage 1.4.1	Xynerorias	no errors
-+ Shop Tile Framework 1.0.9
-+ [STF] Alchemy_Shop 1.4.0
-+ [STF] Garden Village Shops 1.4.4
-+ [STF] Khadija's Recipe Shop 1.2.8
-+ [STF] Mineral Guild Shops 1.0.1
-+ Buffalo Ranch 1.0.0
 + Museum Shop 1.0.0
-+ The Beach Bar - Shop 1.0.3
-+ Simple Crop Label 5.5.6	TheMusketeer	no errors
-+ SinglePlayer Regen 1.2.1	MindMeltMax	no errors
-+ Sleepy Eye 1.0.4	spacechase0	no errors
-+ StardewHack 3.0.0	bcmpinc	no errors
-+ Balverines spouse room 2.1.0
-+ Beatrice Festival Locations 1.0.0
-
-+ Charlie maps 1.0.0
 + Deep Dark 1.5.7
-+ Island 3.1.2
-+ Lodging House 1.0.2
-+ Mineral Guild Shops 1.0.1
-+ Nagito Spouse Room and Locations 1.0.0
-
-
-
-
-
-
