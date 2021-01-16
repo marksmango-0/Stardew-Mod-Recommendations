@@ -124,10 +124,12 @@ My list of mods plus a few alternatives based on personal taste
 + Cherry Blossom Soda Pack 1.0.2
 + Chocolatier 1.0.5
 +	Custom Cask Mod 1.2.2
++ [CCM] Dairy and Egg Product Overhaul 1.1.0
 + Fruits and Veggies for JsonAssets 2.0.14
 + Hisame More Recipes 1.0.2
 + Hisame Pack Craftables 1.1.0
 + Industrialization for SDV 3.2.6
++ Jewelcraft Goods 3.0.3
 +	Line Sprinklers 1.2.2-unofficial.1-bigboct	Hootless	no errors
 + Mizu's Flowers for JsonAssets 1.6.7
 + More Food: A Collection of Recipes for JsonAssets 1.9.11
@@ -163,32 +165,6 @@ My list of mods plus a few alternatives based on personal taste
 + More Rings 1.0.4	spacechase0, ParadigmNomad (sprites)	no errors
 + Prismatic Tools 1.7.1-unofficial.9-pathoschild	stokastic	no errors
 
-### Furniture
-*Anything labeled with CF is unavailable until Custom Furniture updates*
-+	Displays 1.0.1	spacechase0	no errors
-+	Expanded Storage 1.2.0 by furyx639
-+ Alternate Storage 1.0.0 by marksmango (I made this!)
-
-### Locations
-+ CP Boarding House 3.4.1
-+ BusStop Expansion Expansion 3.3.3
-+ Community Center Reimagined 1.1.0
-+ [CP] East Scarpe 1.5.7
-+ [BL] Desert 1.0.7
-+	Deep Woods 1.9.6-beta	Max Vollmer	no errors
-+	[DW]EvenMoreDeepWoods 3.0.0	Max Vollmer
-+ [BL] GardenVillage 1.4.4
-+ [CP] Khadija's Recipe Shop 1.2.8
-+ Museum Expansion CP 1.9.13
-+ Ridgeside Village 1.1.4
-+ Shadow Cove 1.0.5
-+ Stardew Aquarium [CP] 1.3.0
-+ Stardew Valley Expanded 1.12.5 *NOTE*
-++ Grampleton Fields 1.0.0
-+ Tailor Mouse Clothing Stand 2.2.4
-+ Train Station 1.0.8
-+ Walk to the Desert NPCs 1.1.0
-+ Mermaid Island 3.1.2
 
 ### Farm Maps
 + Ace Farms Expanded 9.2.0-beta7
@@ -197,6 +173,13 @@ My list of mods plus a few alternatives based on personal taste
 ### Fishing
 + More Fish 4.2.4
 + Teh's Fishing Overhaul 2.1.4	TehPers	no errors
+
+### Furniture
+*Anything labeled with CF is unavailable until Custom Furniture updates*
++	Displays 1.0.1	spacechase0	no errors
++	Expanded Storage 1.2.0 by furyx639
++ Alternate Storage 1.0.0 by marksmango (I made this!)
++ JA_Lamps 1.0.0
 
 ### Hair and Clothing
 +	Get Glam 1.1.0
@@ -222,6 +205,28 @@ My list of mods plus a few alternatives based on personal taste
 + Syds Plaids for JsonAssets 1.0.0
 + Yoseiri's Hairstyles 2.0 for Get Glam 3.0.0
 
+### Locations
++ CP Boarding House 3.4.1
++ BusStop Expansion Expansion 3.3.3
++ Community Center Reimagined 1.1.0
++ [CP] East Scarpe 1.5.7
++ [BL] Desert 1.0.7
++	Deep Woods 1.9.6-beta	Max Vollmer	no errors
++	[DW]EvenMoreDeepWoods 3.0.0	Max Vollmer
++ [BL] GardenVillage 1.4.4
++ [CP] Khadija's Recipe Shop 1.2.8
++ Museum Expansion CP 1.9.13
++ Ridgeside Village 1.1.4
++ Shadow Cove 1.0.5
++ Stardew Aquarium [CP] 1.3.0
++ Stardew Valley Expanded 1.12.5 *NOTE*
+++ Grampleton Fields 1.0.0
++ Tailor Mouse Clothing Stand 2.2.4
++ Train Station 1.0.8
++ Walk to the Desert NPCs 1.1.0
++ Mermaid Island 3.1.2
+
+
 ### NPCs
 
 + Beatrice 1.0.0
@@ -234,6 +239,7 @@ My list of mods plus a few alternatives based on personal taste
 + AlternatePortraits Lunna 1.0.0
 + Lyell 1.8.2
 + Nagito Spouse Room and Locations 1.0.0
++ Shiko
 + Sorren Original NPC 1.1.2
 
 + Canon-Friendly Dialogue Expansion for All Friend-able Characters for Content Patcher 2.0.2
@@ -254,7 +260,7 @@ My list of mods plus a few alternatives based on personal taste
 + More Grass 1.1.1
 + PPJA Better Artisan Goods Icon Pack 1.2.3
 + PPJA Farmer to Florist Icon Pack 1.0.0
-+ ReadersDigestContent 1.1.0
++ Readers Digest 1.1.0	Remy Bach	no errors
 + Realistic Wildflower Grass for More Grass 1.0.0
 + Seasonal Villager Outfits for ContentPatcher 2.3.2
 + Seasonal Display Background 1.0.2
@@ -267,41 +273,9 @@ My list of mods plus a few alternatives based on personal taste
 ## Difficulty Mods 
 
 +	AnimalsNeedWater 1.2.2	GZhynko	no errors
-
++ Hardew Valley 1.6.5
 + [CP] Ferngill Revenue Service 1.0.0
 + Challenging Community Center Bundles 2.1.0
 + [CP] Seed Shortage 1.4.1
 + Tool Upgrade Costs 1.0.0	Cherry	no errors
 + WorkingFireplace 1.5.3	jahangmar	no errors
-
-# Raw dump
-
-
-+ CP_Lamps 1.0.0
-+ DaisyNiko's Tilesheets 1.4.0
-+ Farmer to Florist Context Tag Swap 3.0.9
-
-+ Options 1.0.1
-+ Papaya's Custom NPC Mod 1.2.0
-
-+ Vibrant Pastoral for SVE 0.2.0
-+ [CCM] Dairy and Egg Product Overhaul 1.1.0
-+ [JA] Dairy and Egg Product Overhaul 1.1.0
-+ [JA] First Clothing Mod 1.0.0
-+ [JA] The Beach Bar 1.0.0
-+ Alternate Storage (JA) 1.0.0
-+ Artifact Fragments 5.0.0
-+ Artisan Valley Machine Goods 3.0.20
-+ Island Fruits 1.0.3
-+ JA_Lamps 1.0.0
-+ Jewelcraft Goods 3.0.3
-
-+ Sailor Styles - Content Only 1.0.0
-+ Starbrew Valley: A Collection of Alcoholic Drinks and Recipes 1.3.14
-
-+ [PFM] Dairy and Egg Product Overhaul 1.1.0
-+ [PFM] Mineral Mage 1.0.1
-+ Hardew Valley 1.6.5
-+ Readers Digest 1.1.0	Remy Bach	no errors
-+ Museum Shop 1.0.0
-+ Deep Dark 1.5.7
