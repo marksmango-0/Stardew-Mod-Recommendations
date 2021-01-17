@@ -2,20 +2,18 @@
 My list of mods plus a few alternatives based on personal taste
 
 ## Core mods and Frameworks
-+	SMAPI 3.8.3	Pathoschild
-+ Console Commands 3.8.3	SMAPI	no errors
-+ Save Backup 3.8.3	SMAPI	no errors
++	SMAPI - Needed to run mods
++ Console Commands - Included in smapi
++ Save Backup - Included with smapi
 
-+ Content Patcher 1.19.3
 
-+	Json Assets 1.7.3
++ [Content Patcher]() - framework for replacing game assets
++	Json Assets - framework for adding new items to the game
++	Farm Type Manager - framework for adding objects to farm maps
++ SpaceCore - framework for other mods
 
-+	Farm Type Manager 1.13.1
-
-+ SpaceCore 1.5.2	spacechase0	no errors
-
-+	Expanded Preconditions Utility 1.0.1	Cherry	no errors
-+	Mail Framework Mod 1.8.0
++	[Expanded Preconditions Utility](https://www.nexusmods.com/stardewvalley/mods/6529) - allows mods to use game conditions
++	Mail Framework Mod - allows mods to send mail
 +	ImagEd 1.1.0	Candidus42	no errors
 + PyTK 1.21.0	Platonymous	no errors
 + Quest Framework 1.2.1
