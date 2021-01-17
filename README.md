@@ -3,8 +3,8 @@ My list of mods plus a few alternatives based on personal taste
 
 ## Core mods and Frameworks
 +	[SMAPI](https://smapi.io) - Needed to run mods
-+ Console Commands - Included in smapi
-+ Save Backup - Included with smapi
+++ Console Commands - Included in smapi
+++ Save Backup - Included with smapi
 
 
 + [Content Patcher]() - framework for replacing game assets
@@ -16,7 +16,7 @@ My list of mods plus a few alternatives based on personal taste
 
 +	[Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536) - allows mods to send mail
 + [Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414) - allows mods to use the quest system
-+	[ImagEd] (https://www.nexusmods.com/stardewvalley/mods/7218) - allows mods to change sprite colors
++	[ImagEd](https://www.nexusmods.com/stardewvalley/mods/7218) - allows mods to change sprite colors
 
 + [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970) - allows mods to edit machine crafting rules
 +	[Entoarox Framework](https://www.nexusmods.com/stardewvalley/mods/2269) - framework for modding functions
