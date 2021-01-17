@@ -2,33 +2,35 @@
 My list of mods plus a few alternatives based on personal taste
 
 ## Core mods and Frameworks
-+	SMAPI - Needed to run mods
++	[SMAPI](https://smapi.io) - Needed to run mods
 + Console Commands - Included in smapi
 + Save Backup - Included with smapi
 
 
 + [Content Patcher]() - framework for replacing game assets
-+	Json Assets - framework for adding new items to the game
-+	Farm Type Manager - framework for adding objects to farm maps
-+ SpaceCore - framework for other mods
-
 +	[Expanded Preconditions Utility](https://www.nexusmods.com/stardewvalley/mods/6529) - allows mods to use game conditions
-+	Mail Framework Mod - allows mods to send mail
-+	ImagEd 1.1.0	Candidus42	no errors
-+ PyTK 1.21.0	Platonymous	no errors
-+ Quest Framework 1.2.1
-+ Producer Framework Mod 1.5.0
-+	Entoarox Framework 2.5.2	Entoarox	no errors
++	[Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720) - framework for adding new items to the game
++	[Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231) - framework for adding objects to farm maps
++ [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348) - framework for other mods to use
++ [PyTK](https://www.nexusmods.com/stardewvalley/mods/1726) - framework for other mods to use
 
-+	AntiSocial NPCs 1.0.2	Super Aardvark	no errors
-+	CustomMusic 1.8.0 *note*
-+	Custom NPC Exclusions 1.2.0	Esca	no errors
-+	Custom NPC Fixes 1.2.2	spacechase0	no errors
-+ Custom Crafting Stations 1.1.3
-+	Content Patcher Animations 1.1.7	spacechase0	1 error
-+ Shop Tile Framework 1.0.9
-+ StardewHack 3.0.0	bcmpinc	no errors
-+ TMXL Map Toolkit 1.22.0
++	[Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536) - allows mods to send mail
++ [Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414) - allows mods to use the quest system
++	[ImagEd] (https://www.nexusmods.com/stardewvalley/mods/7218) - allows mods to change sprite colors
+
++ [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970) - allows mods to edit machine crafting rules
++	[Entoarox Framework](https://www.nexusmods.com/stardewvalley/mods/2269) - framework for modding functions
+
++	[AntiSocial NPCs](https://www.nexusmods.com/stardewvalley/mods/5371) - allows mods to create unfriendable NPCs :(
++	[CustomMusic](https://www.nexusmods.com/stardewvalley/mods/3043) - allows mods to edit game music (note: included in SVE, standalone not needed if using SVE) 
++	[Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089) - allows mods to exclude NPCs from events (also included in SVE)
++	[Custom NPC Fixes 1.2.2](https://www.nexusmods.com/stardewvalley/mods/3849) - fixes NPC spawning and pathing in modded locations
+
++ [Custom Crafting Stations](https://www.nexusmods.com/stardewvalley/mods/6293) - allows mods to create crafting stations with unique menus
++	[Content Patcher Animations](https://www.nexusmods.com/stardewvalley/mods/3853) - allows mods to animate textures
++ [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005) - allows mods to create custom shops and edit vanilla shops
++ [StardewHack](https://www.nexusmods.com/stardewvalley/mods/3213) - framework for modding functions
++ [MXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820) - allows mods to edit maps; also allows player to build objects from a custom menu
 
 ## Functionality and Fixes
 +	Artifact System Fixed 1.0.3-unofficial.1-Xebeth	Ilyaki	no errors
