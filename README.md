@@ -3,8 +3,8 @@ My list of mods plus a few alternatives based on personal taste
 
 ## Core mods and Frameworks
 *	[SMAPI](https://smapi.io) - Needed to run mods
-  * Console Commands - Included in SMAPI
-  * Save Backup - Included with SMAPI
+ * Console Commands - Included in SMAPI
+ * Save Backup - Included with SMAPI
 
 
 + [Content Patcher]() - framework for replacing game assets
@@ -33,27 +33,26 @@ My list of mods plus a few alternatives based on personal taste
 + [MXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820) - allows mods to edit maps; also allows player to build objects from a custom menu
 
 ## Functionality and Fixes
-+	Artifact System Fixed 1.0.3-unofficial.1-Xebeth	Ilyaki	no errors
-+	AudioDevices 3.0.1	Max Vollmer	no errors
-+	Automate 1.19.1	Pathoschild	no errors
-++ PFMAutomate 1.2.3	Digus	no errors
-+	Better Jukebox 1.2.0	Gaphodil	no errors
-+	Bus Locations 1.0.7
-+	Chat Commands 1.15.2	Cat	no errors
-+	Event Repeater 5.3.0	MissCoriel	no errors
-+	Generic Mod Config Menu 1.2.1	spacechase0	no errors
-+	HelpWantedQuestFixes 1.2.0	Pokeytax	no errors
-+	Level Extender 1.5.1	Devin Lematty	no errors
-+	Limited Campfire Cooking 1.0.2	Cherry	no errors
-+	Luck Skill 1.0.1	spacechase0	no errors
-+ Lumisteria Festival Additions 1.0.0
-+ Lumisteria Special Orders 1.0.1
-+ Part of the Community 1.1.6-3	Brandon Marquis Markail Green (Space Baby)	no errors
-+ SinglePlayer Regen 1.2.1	MindMeltMax	no errors
-+ SpiceOfLife 2.1.0	KarratKake	no errors
-+ The Love of Cooking 1.0.7	blueberry	no errors
-+ TimeSpeed 2.4.3	cantorsdust	no errors
-+	ZoomLevel 1.2.0	thespbgamer	no errors
++	[Artifact System Fixed](https://www.nexusmods.com/stardewvalley/mods/2761) - fixes some quirks/bugs in the artifact system
++	[AudioDevices](https://www.nexusmods.com/stardewvalley/mods/2838) - allows SDV to switch audio devices without restarting
++	[Automate](https://www.nexusmods.com/stardewvalley/mods/1063) - allows machines to use attached chest storage automatically when crafting items
++ [PFMAutomate]() - adds compatibility between Automate and Producer Framework machines
++	[Bus Locations](https://www.nexusmods.com/stardewvalley/mods/2905) - allows mods to use the bus to reach to new locations
++	[Chat Commands](https://www.nexusmods.com/stardewvalley/mods/2092) - allows users to type commands into game chat rather than the SMAPI window
++	[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642) - allows events to repeat and allows the user to replay events
++	[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) - allows users to edit mod configs at the main menu 
++	[HelpWantedQuestFixes](https://www.nexusmods.com/stardewvalley/mods/2644) - adds more options to the vanilla quest board
++	[Level Extender](https://www.nexusmods.com/stardewvalley/mods/1471) - raises the max level of skills to 100, adds a "prestige" system
++	[Limited Campfire Cooking](https://www.nexusmods.com/stardewvalley/mods/4971) - allows a small number of recipes to be cooked at the campfire (seems incompatible with controllers)
++	Luck Skill - adds a Luck skill
++ [Lumisteria Festival Additions](https://www.nexusmods.com/stardewvalley/mods/4927) - makes adjustments to the fair festival
++ [Lumisteria Special Orders](https://www.nexusmods.com/stardewvalley/mods/7417) - adds more quests to the special orders board
++ [Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923) - adds ways to improve relationships with NPCs (great for non-gift givers)
++ [SinglePlayer Sleep](https://www.nexusmods.com/stardewvalley/mods/6778) - adds the "napping" function from multiplayer to single player (regain stamina in bed w/out sleeping)
++ [SpiceOfLife](https://www.nexusmods.com/stardewvalley/mods/7398) - eating the same foods repeatedly has diminishing returns. optional stamina increases for eating a variety
++ [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830) - MASSIVE overhaul to the cooking system. new skill, new bundles, improved cooking UI
++ [TimeSpeed](https://www.nexusmods.com/stardewvalley/mods/169) - allows adjustment of the game clock speed
+
 
 
 
@@ -61,29 +60,31 @@ My list of mods plus a few alternatives based on personal taste
 
 ## Quality of Life and UI changes
 
-+	AutomaticGates 2.5.1	Rakiin aKa ScheKaa	no errors
-+	AutoAnimalDoors 2.3.1-unofficial.4-Quintin	Aaron Taggart	no errors
-+	Bigger Backpack 3.0.0	spacechase0, yoseiri, bcmpinc	no errors
-+	Boogies Clean Crafting 1.4.0
-+	Convenient Chests 1.5.2-unofficial.1-Quintin	aEnigma	no errors
-+	Context-Sensitive Gift Cursor for Stardew Valley 1.2.1	Vanguard3000	no errors
-+	Crop Transplant Mod 1.2.0	Digus	no errors *Evelyn note*
-+	DailyTasksReport 1.4.1-unofficial.7-prism99	GuiNoya	no errors
-+	Evelyn Heart Level Garden Pot Gift 1.0.1
-+	Experience Bars 1.2.1	spacechase0	no errors
-+	Extended Minecart 1.11.0	Entoarox	no errors
-+	Fast Animations 1.9.4	Pathoschild	no errors
-+	Friends Forever 1.2.3	Isaac S.	no errors
-+	Fish Info 1.5.0	Speshkitty	no errors
-+ Pony Weight Loss Program 0.8.2	BadNetCode	no errors
-+ Prepare for New Day 1.0.0	igotnousername	no errors
-+ Rented Tools 1.2.2-unofficial.1-pathoschild	JarvieK	no errors
-+ Range Highlight 2.2.0	Jamie Taylor	no errors
-+ Running Late 1.2.0	Coll1234567	no errors
-+ Simple Crop Label 5.5.6	TheMusketeer	no errors
-+ Skip Intro 1.9.0	Pathoschild	no errors
-+ UI Info Suite 1.9.0	Cdaragorn	no errors
-+ Wear More Rings 3.4.0	bcmpinc	no errors
++	[AutomaticGates](https://www.nexusmods.com/stardewvalley/mods/3109) - fence gates open automatically when near and close when not
++	AutoAnimalDoors - coop and barn doors automatically open in the morning and close at night (unless it's storming or winter)
++	[Better Jukebox](https://www.nexusmods.com/stardewvalley/mods/6017)  - cleans up the jukebox UI
++	[Bigger Backpack](https://www.nexusmods.com/stardewvalley/mods/1845) - adds an additional backpack level to unlock the 4th inventory row
++	[Boogies Clean Crafting](https://www.nexusmods.com/stardewvalley/mods/7177) - organizes the crafting menu (some quirks with modded craftables)
++	[Convenient Chests](https://www.nexusmods.com/stardewvalley/mods/2196) - allows crafting from nearby chests, auto-stashing items with hotkey and flagging item types in chests
++	[Context-Sensitive Gift Cursor](https://www.nexusmods.com/stardewvalley/mods/6564) - changes the cursor to show NPC loves, likes, and dislikes if they've already received that gift
++	[Crop Transplant Mod](https://www.nexusmods.com/stardewvalley/mods/2594) - allows moving planted crops with pots (recommend enabling Evelyn's 2-heart event in the config, especially if using harder bundles and/or seed shortage)
++	[DailyTasksReport]() - adds a menu to show number of unwatered crops, unclaimed machine items, unpetted and unwatered pets, and birthdays
++	[Evelyn Friendship Garden Pot](https://www.nexusmods.com/stardewvalley/mods/2759) - Evelyn will now teach you the art of pottery at 8 or 10 hearts instead of when the greenhouse unlocks (also recommended for bundle challenge games)
++	[Experience Bars]() - adds a UI to show current skill levels and progress (works with modded skills)
++	[Extended Minecart](https://www.nexusmods.com/stardewvalley/mods/2271) - adds multiple minecart locations (potential conflicts with location mods)
++	[Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089) - speeds up eating, drinking, geode breaking, and other animations
++	[Friends Forever](https://www.nexusmods.com/stardewvalley/mods/1738) - eliminates heart level decay with NPCs and animals (configurable)
++	[Fish Info](https://www.nexusmods.com/stardewvalley/mods/5452) - shows more information in the fish catalog
++ [Pony Weight Loss Program](https://www.nexusmods.com/stardewvalley/mods/1232) -  shrinks the hitbox of your horse to fit in 1-wide spaces
++ [Prepare for New Day](https://www.nexusmods.com/stardewvalley/mods/7638) - pauses time until you first leave your house, and inside the house after 1:00 AM (handy for long-loading heavily modded games)
++ [Rented Tools]() - gives the option to rent basic-level tools from Clint while he upgrades yours
++ [Range Highlight](https://www.nexusmods.com/stardewvalley/mods/6752) - shows the ranges of sprinklers, scarecrows, etc. (not affected by UI Info's zoom/scale issues)
++ [Running Late](https://www.nexusmods.com/stardewvalley/mods/3518) - shows individual minutes on the game clock rather than increments of :10
++ [Simple Crop Label](https://www.nexusmods.com/stardewvalley/mods/314) - shows crop names on hover (should be included in UI Info, not sure why I have this installed)
++ [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533) - skips the agonizing 8 seconds of CA logo and intro screen
++ [UI Info Suite](https://www.nexusmods.com/stardewvalley/mods/1150) - adds several QoL-but-not-really-cheaty UI functions to the game, each toggleable through an in-game menu
++ [Wear More Rings](https://www.nexusmods.com/stardewvalley/mods/3214) - adds a configurable amount of extra ring slots (recommended to pair with More Rings)
++	[ZoomLevel](https://www.nexusmods.com/stardewvalley/mods/7363) - adds hotkeys to increase/decrease zoom beyond the 75% available in the options menu
 
 
 ## Content
