@@ -30,7 +30,7 @@ My list of mods plus a few alternatives based on personal taste
 +	[Content Patcher Animations](https://www.nexusmods.com/stardewvalley/mods/3853) - allows mods to animate textures
 + [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005) - allows mods to create custom shops and edit vanilla shops
 + [StardewHack](https://www.nexusmods.com/stardewvalley/mods/3213) - framework for modding functions
-+ [MXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820) - allows mods to edit maps; also allows player to build objects from a custom menu
++ [TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820) - allows mods to edit maps; also allows player to build objects from a custom menu
 
 ## Functionality and Fixes
 +	[Artifact System Fixed](https://www.nexusmods.com/stardewvalley/mods/2761) - fixes some quirks/bugs in the artifact system
