@@ -64,7 +64,7 @@ My list of mods plus a few alternatives based on personal taste
 +	AutoAnimalDoors - coop and barn doors automatically open in the morning and close at night (unless it's storming or winter)
 +	[Better Jukebox](https://www.nexusmods.com/stardewvalley/mods/6017)  - cleans up the jukebox UI
 +	[Bigger Backpack](https://www.nexusmods.com/stardewvalley/mods/1845) - adds an additional backpack level to unlock the 4th inventory row
-+	[Boogies Clean Crafting](https://www.nexusmods.com/stardewvalley/mods/7177) - organizes the crafting menu (some quirks with modded craftables)
++	[Tidy Crafting Menu](https://www.nexusmods.com/stardewvalley/mods/7177) - organizes the crafting menu (some quirks with modded craftables)
 +	[Convenient Chests](https://www.nexusmods.com/stardewvalley/mods/2196) - allows crafting from nearby chests, auto-stashing items with hotkey and flagging item types in chests
 +	[Context-Sensitive Gift Cursor](https://www.nexusmods.com/stardewvalley/mods/6564) - changes the cursor to show NPC loves, likes, and dislikes if they've already received that gift
 +	[Crop Transplant Mod](https://www.nexusmods.com/stardewvalley/mods/2594) - allows moving planted crops with pots (recommend enabling Evelyn's 2-heart event in the config, especially if using harder bundles and/or seed shortage)
