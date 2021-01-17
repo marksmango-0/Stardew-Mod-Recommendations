@@ -2,9 +2,9 @@
 My list of mods plus a few alternatives based on personal taste
 
 ## Core mods and Frameworks
-+	[SMAPI](https://smapi.io) - Needed to run mods
-* Console Commands - Included in SMAPI
-* Save Backup - Included with SMAPI
+*	[SMAPI](https://smapi.io) - Needed to run mods
+  * Console Commands - Included in SMAPI
+  * Save Backup - Included with SMAPI
 
 
 + [Content Patcher]() - framework for replacing game assets
