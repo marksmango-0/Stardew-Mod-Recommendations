@@ -75,6 +75,7 @@ My list of mods plus a few alternatives based on personal taste
 +	[Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089) - speeds up eating, drinking, geode breaking, and other animations
 +	[Friends Forever](https://www.nexusmods.com/stardewvalley/mods/1738) - eliminates heart level decay with NPCs and animals (configurable)
 +	[Fish Info](https://www.nexusmods.com/stardewvalley/mods/5452) - shows more information in the fish catalog
++	Line Sprinklers - adds sprinklers that spray in a straight line (craftable from the vanilla sprinklers)
 + [Pony Weight Loss Program](https://www.nexusmods.com/stardewvalley/mods/1232) -  shrinks the hitbox of your horse to fit in 1-wide spaces
 + [Prepare for New Day](https://www.nexusmods.com/stardewvalley/mods/7638) - pauses time until you first leave your house, and inside the house after 1:00 AM (handy for long-loading heavily modded games)
 + [Rented Tools]() - gives the option to rent basic-level tools from Clint while he upgrades yours
@@ -110,56 +111,45 @@ My list of mods plus a few alternatives based on personal taste
 + [Rustic Country Town Interior](https://www.nexusmods.com/stardewvalley/mods/6098) - recolors town interiors and items
 + [Stardew Foliage Redone Foliage Only](https://www.nexusmods.com/stardewvalley/mods/4966) - changes foliage only (if using a different world recolor)
 
-### Crops, Crafting, and Recipes
+### Crafting, and Recipes
 
-+ [MFM] Alchemy 1.4.0
-+ [JA] Advanced Farming 1.3.1
-+ Aquilegia's Sweet Tooth 1.5.3
-+ [CP] Artisan Valley 3.0.20
-+ [JA] Artisanal Soda Makers 1.3.3
-+ [JA] Artisanal Soda Makers - PPJA and More Fruit Pack 1.3.3
-+ Baker's Life Json Asset Items 1.1.3
-+ Champagne Wishes 1.0.3
-+ Cherry Blossom Cafe 1.0.2
-+ Cherry Blossom Soda Pack 1.0.2
-+ Chocolatier 1.0.5
-+	Custom Cask Mod 1.2.2
-+ [CCM] Dairy and Egg Product Overhaul 1.1.0
-+ Fruits and Veggies for JsonAssets 2.0.14
-+ Hisame More Recipes 1.0.2
-+ Hisame Pack Craftables 1.1.0
-+ Industrialization for SDV 3.2.6
-+ Jewelcraft Goods 3.0.3
-+	Line Sprinklers 1.2.2-unofficial.1-bigboct	Hootless	no errors
-+ Mizu's Flowers for JsonAssets 1.6.7
-+ More Food: A Collection of Recipes for JsonAssets 1.9.11
-+ [MFM] More Recipes 1.9.11
-+ [JA] Fizzy Drinks 2.2.0
-+ [JA] Korea Blossom 1.7.1
-+ [PFM] Farmer to Florist 3.0.9
-+ [PFM] Jewelcraft 3.0.3
-+ [CP] Dairy and Egg Product Overhaul 1.1.0
-+ Eatums 2.3.0
-+ Even More Recipes for JsonAssets 1.5.11
-+ [CP] Witchy Valley 1.1.1
-+ [PFM]Quality Artisan Products 1.0.4-1
-+ [MFM] Starbrew Valley 1.3.14
-+ [MFM] Witchy Valley SVE 1.1.1
-+ [MFM] Champagne Wishes 1.0.2
-+ [MFM] Even More Recipes 1.5.11
-+ [MFM] Farmer to Florist 3.0.9
-+ [MFM] Fruits and Veggies 2.0.14
-+ Mineral Guild Shops 1.0.1
++ [Alchemy](https://www.nexusmods.com/stardewvalley/mods/5518) - adds an alchemy shop and crafting system
++ [Aquilegia's Sweet Tooth](https://www.nexusmods.com/stardewvalley/mods/1897) - adds a ton of sweet cooking recipes
++ [Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) - a major expansion of crafting machines and recipes
++ [Artisanal Soda Makers](https://www.nexusmods.com/stardewvalley/mods/5173) - adds soda making machines and recipes
++ [Baker's Life](https://www.nexusmods.com/stardewvalley/mods/5213) - adds many baking recipes
++ [Champagne Wishes](https://www.nexusmods.com/stardewvalley/mods/5721) - adds champagne and other classy recipes
++ [Cherry Blossom Cafe](https://www.nexusmods.com/stardewvalley/mods/6172) - adds recipes using cherry blossoms from the Korea Blossom mod
++ [Chocolatier](https://www.nexusmods.com/stardewvalley/mods/5403) - adds chocolate recipes
++	[Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642) - allows configuration of casks, includes aging pickles and maple syrup
++ [Dairy and Egg Product Overhaul](https://www.nexusmods.com/stardewvalley/mods/5870) - adds large cheese and mayo (seems to conflict with quality artisan products, I'm probably using this one incorrectly)
++ [Fizzy Drinks](https://www.nexusmods.com/stardewvalley/mods/5342) - adds more sodas on top of Artisanal Soda Makers
++ [Hisame More Recipes](https://www.nexusmods.com/stardewvalley/mods/4836) - adds new food recipes to Mermaid Island's Summer Market (for More New Fish)
++ [Hisame Pack Craftables](https://www.nexusmods.com/stardewvalley/mods/4837) - adds crafting recipes to Mermaid Island's Summer Market
++ [Industrialization](https://www.nexusmods.com/stardewvalley/mods/5102) - adds many mid- to late-game machines (paired with automate this is basically Factorio)
++ [Jewelcraft](https://www.nexusmods.com/stardewvalley/mods/1861) - adds jewelry crafting
++ [Mineral Mage](https://www.nexusmods.com/stardewvalley/mods/5678) - adds a mineral mage guild, shop, and crafting system
++ [More Recipes: A Collection of Recipes](https://www.nexusmods.com/stardewvalley/mods/1670) - adds more recipes
++ [Even More Recipes](https://www.nexusmods.com/stardewvalley/mods/1742) - like More Recipes, but *more* More Recipes
++ [Quality Artisan Products](https://www.moddrop.com/stardew-valley/mods/707502-quality-artisan-products) - machine output reflects input item's quality (may be overwriting Dairy and Egg Product Overhaul)
++ [Starbrew Valley](https://www.nexusmods.com/stardewvalley/mods/1764) - adds alcoholic drink recipes (must be 18/19/21/legal age to use....jk I'm not a cop do whatever you want, it's a game)
++ [Witchy Valley](https://www.nexusmods.com/stardewvalley/mods/7312) - adds a cauldron and witchy crafting recipes
++ [Zosa and Bonster's Recipes](https://www.nexusmods.com/stardewvalley/mods/5203) - another recipe mod that attempts to use less common vanilla food items
 
-### Crops
-+	Better Mixed Seeds 3.0.1	Satozaki	no errors
-+	Better Quality, More Seeds 2.0.0-5	Brandon Marquis Markail Green (Space Baby)	no errors
-+ Farmer to Florist 3.0.9
-+ Lumisteria Flowers and Crops 1.0.2
-+ Lumisteria Small Fruit Trees for Json Assets 1.0.3
 
-+ More Trees for JsonAssets 1.6.10
-+ Mulch 1.0.0
+### Crops and Farming
++ [Advanced Farming](https://www.nexusmods.com/stardewvalley/mods/6070) - adds lategame farming mechanics like hydroponics, aquaponics, compost, etc.
++ [Aquatic Plant](https://www.nexusmods.com/stardewvalley/mods/7092) - adds aquatic plants that function similarly to rice near the water
++	[Better Mixed Seeds](https://www.nexusmods.com/stardewvalley/mods/3012) - adds Json Assets crops to the mixed seeds pool
++	[Better Quality, More Seeds](https://www.nexusmods.com/stardewvalley/mods/935) - higher quality crops give more seeds in seed maker
++ [Farmer to Florist](https://www.nexusmods.com/stardewvalley/mods/2075) - adds more farmable flowers
++ [Fruits and Veggies](https://www.nexusmods.com/stardewvalley/mods/1598) - adds a ton of crops, including a few in winter (if you only use one crop mod, I recommend it be this one)
++ [Korea Blossom](https://www.nexusmods.com/stardewvalley/mods/6064) - adds growable flowers from Korea
++ [Lumisteria Flowers and Crops](https://www.nexusmods.com/stardewvalley/mods/7110) - adds more flowers and two crops
++ [Lumisteria Small Fruit Trees for Json Assets](https://www.nexusmods.com/stardewvalley/mods/4559) - adds small variants of fruit trees that can be planted in pots
++ [Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028) - adds many flowers as crops
++ [More Trees](https://www.nexusmods.com/stardewvalley/mods/1671) - adds a wide selection of new fruit trees
++ [Mulch](https://www.nexusmods.com/stardewvalley/mods/7457) - adds a 'crop' that grows in two days and can be used before the end of the season to protect tilled soil when seasons change (I made this!)
 
 ### Equipment, Tools, and Weapons
 + More Rings 1.0.4	spacechase0, ParadigmNomad (sprites)	no errors
@@ -167,8 +157,13 @@ My list of mods plus a few alternatives based on personal taste
 
 
 ### Farm Maps
-+ Ace Farms Expanded 9.2.0-beta7
-+ Immersive Farm 2 Remastered 1.12.5
++ [Ace Farms Expanded](https://www.nexusmods.com/stardewvalley/mods/988) - a configurable selection of small to large-sized farm maps
++ [Capitalist Dream Farm 2](https://www.nexusmods.com/stardewvalley/mods/4572) - a large farm with lots of planting room and many secrets
++ [Grandpa's Farm](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files) - a moderate sized farm similar to the vanilla standard but much better (this requires SVE!)
++ [Immersive Farm 2 Fix](https://www.nexusmods.com/stardewvalley/mods/3561) - large farm with many secrets (use this one if not using SVE)
++ [Immersive Farm 2 Remastered](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files) - large farm with many secrets (this requires SVE!)
++ [Modest Maps Island Farm](https://www.nexusmods.com/stardewvalley/mods/7316) - a rework of the beach farm, slightly larger with functional sprinklers
++ [Tiny Garden Farm](https://www.nexusmods.com/stardewvalley/mods/4635) - a cute, small farm tucked into a forest
 
 ### Fishing
 + More Fish 4.2.4
