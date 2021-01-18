@@ -92,24 +92,23 @@ My list of mods plus a few alternatives based on personal taste
 
 ### Animals
 +	Adopt & Skin 3.2.0-beta.1.6	Gathouria
-+	Animal Husbandry Mod 2.5.0-beta2	Digus
-+	Better Ranching 1.8.0	Urbanyeti	no errors
-+ More Barn and Coop Animals 1.1.1	AairTheGreat	no errors
++	[Animal Husbandry](https://www.nexusmods.com/stardewvalley/mods/1538) - adds butchering and breeding fucntions to animals 
++	[AnimalsNeedWater](https://www.nexusmods.com/stardewvalley/mods/6196) - does what it says
++	[Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859) - tweaks some aspects of harvesting from animals, shows an icon when an animal needs love (including your pets)
++ [More Barn and Coop Animals](https://www.nexusmods.com/stardewvalley/mods/4869) - expands barn and coop sizes
 
 ### Audio
-+ Mancer's Music Pack 0.5.0
-+ Thunder and Frog Sounds 1.0.1
++ [Mancer's Music Pack](https://www.nexusmods.com/stardewvalley/mods/4408) - adds music to Boarding House and Mermaid Island
++ [Thunder and Frog Sounds](https://www.nexusmods.com/stardewvalley/mods/7450) - replaces thunder and frog sounds
 
 ### Building Adjustments and recolors
-+ DexMods Cozier Default Farmhouses 2.2.0
-+ Earthy Recolour 1.1.3
-+ Earthy Recolour Fix for Ace's Farms Expanded 1.0.0
-+ Earthy Recolour Fix for SVE 1.1.0
-+ Elle's Seasonal Buildings 1.3.1
-+ grapeponta's Vanilla Interiors 1.8.1
-+ Rustic Country Town Interior 1.7.0
-
-+ Stardew Foliage Redone Foliage Only 1.5.0
++ [Cozier Default Farmhouses](https://www.nexusmods.com/stardewvalley/mods/7289) - changes the farmhouse layout, adds a kitchen to the starting house (great with Love of Cooking)
++ [Daisy Niko's Earthy Recolour 1.1.3](https://www.nexusmods.com/stardewvalley/mods/5255) - recolors the outdoors to a darker, earthier tone
+.....add more recolors here
++ [Elle's Seasonal Buildings](https://www.nexusmods.com/stardewvalley/mods/1993) - amazing selection of farm building retextures, all configurable
++ [grapeponta's Vanilla Interiors](https://www.nexusmods.com/stardewvalley/mods/6767) - recolors several interiors to a less bright texture than vanilla (configurable)
++ [Rustic Country Town Interior](https://www.nexusmods.com/stardewvalley/mods/6098) - recolors town interiors and items
++ [Stardew Foliage Redone Foliage Only](https://www.nexusmods.com/stardewvalley/mods/4966) - changes foliage only (if using a different world recolor)
 
 ### Crops, Crafting, and Recipes
 
