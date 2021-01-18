@@ -157,6 +157,8 @@ My list of mods plus a few alternatives based on personal taste
 
 
 ### Farm Maps
+These are just a small selection of the farm maps available. As a general rule, I'd recommend only downloading maps that have been updated since 1.5 (roughly December 20th) as the base structure of the farm changed and most older maps will not be compatible. Some of these I've used, some I've seen recommended. Daisy Niko (Capitalist Dream) and Inkubus (Modest Maps) have a larger selection than is listed here and produce great maps. 
+
 + [Ace Farms Expanded](https://www.nexusmods.com/stardewvalley/mods/988) - a configurable selection of small to large-sized farm maps
 + [Capitalist Dream Farm 2](https://www.nexusmods.com/stardewvalley/mods/4572) - a large farm with lots of planting room and many secrets
 + [Grandpa's Farm](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files) - a moderate sized farm similar to the vanilla standard but much better (this requires SVE!)
@@ -166,15 +168,18 @@ My list of mods plus a few alternatives based on personal taste
 + [Tiny Garden Farm](https://www.nexusmods.com/stardewvalley/mods/4635) - a cute, small farm tucked into a forest
 
 ### Fishing
-+ More Fish 4.2.4
-+ Teh's Fishing Overhaul 2.1.4	TehPers	no errors
++ [More New Fish](https://www.nexusmods.com/stardewvalley/mods/3578) - dramatically increases the variety of fish available to catch (now compatible with the Aquarium mod!)
++ Teh's Fishing Overhaul  - adds many functions and changes to the fishing system (only partially compatible with 1.5 right now, no magic bait or 1.5 fish)
 
 ### Furniture
 *Anything labeled with CF is unavailable until Custom Furniture updates*
-+	Displays 1.0.1	spacechase0	no errors
-+	Expanded Storage 1.2.0 by furyx639
-+ Alternate Storage 1.0.0 by marksmango (I made this!)
-+ JA_Lamps 1.0.0
++ [4 lamps for CP and JA](https://www.nexusmods.com/stardewvalley/mods/4613) - adds (JA version) or replaces vanilla (CP version) lamps
++	[Displays](https://www.nexusmods.com/stardewvalley/mods/7635) - adds mannequins to dress up
++	[Expanded Storage](https://www.nexusmods.com/stardewvalley/mods/7431) -  framework for adding new storage containers
++ [Alternate Storage](https://www.nexusmods.com/stardewvalley/mods/7539) - adds new storage containers like a locker, barrel, and crate (I made this!)
++ [Junimo Box Set](https://www.nexusmods.com/stardewvalley/mods/7582) - adds cute Junimo-themed storage containers
++ [Mega Storage](https://www.nexusmods.com/stardewvalley/mods/4089) - adds larger, even larger, and infinite variants of the vanilla chest
++ [Who and KAYA's Chest Expanded Storage](https://www.nexusmods.com/stardewvalley/mods/7667) - adds more cute storage
 
 ### Hair and Clothing
 +	Get Glam 1.1.0
