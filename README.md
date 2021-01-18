@@ -174,9 +174,9 @@ These are just a small selection of the farm maps available. As a general rule, 
 ### Furniture
 *Anything labeled with CF is unavailable until Custom Furniture updates*
 + [4 lamps for CP and JA](https://www.nexusmods.com/stardewvalley/mods/4613) - adds (JA version) or replaces vanilla (CP version) lamps
++ [Alternate Storage](https://www.nexusmods.com/stardewvalley/mods/7539) - adds new storage containers like a locker, barrel, and crate (I made this!)
 +	[Displays](https://www.nexusmods.com/stardewvalley/mods/7635) - adds mannequins to dress up
 +	[Expanded Storage](https://www.nexusmods.com/stardewvalley/mods/7431) -  framework for adding new storage containers
-+ [Alternate Storage](https://www.nexusmods.com/stardewvalley/mods/7539) - adds new storage containers like a locker, barrel, and crate (I made this!)
 + [Junimo Box Set](https://www.nexusmods.com/stardewvalley/mods/7582) - adds cute Junimo-themed storage containers
 + [Mega Storage](https://www.nexusmods.com/stardewvalley/mods/4089) - adds larger, even larger, and infinite variants of the vanilla chest
 + [Who and KAYA's Chest Expanded Storage](https://www.nexusmods.com/stardewvalley/mods/7667) - adds more cute storage
@@ -206,25 +206,24 @@ These are just a small selection of the farm maps available. As a general rule, 
 + Yoseiri's Hairstyles 2.0 for Get Glam 3.0.0
 
 ### Locations
-+ CP Boarding House 3.4.1
-+ BusStop Expansion Expansion 3.3.3
-+ Community Center Reimagined 1.1.0
-+ [CP] East Scarpe 1.5.7
-+ [BL] Desert 1.0.7
-+	Deep Woods 1.9.6-beta	Max Vollmer	no errors
-+	[DW]EvenMoreDeepWoods 3.0.0	Max Vollmer
-+ [BL] GardenVillage 1.4.4
-+ [CP] Khadija's Recipe Shop 1.2.8
-+ Museum Expansion CP 1.9.13
-+ Ridgeside Village 1.1.4
-+ Shadow Cove 1.0.5
-+ Stardew Aquarium [CP] 1.3.0
-+ Stardew Valley Expanded 1.12.5 *NOTE*
-++ Grampleton Fields 1.0.0
-+ Tailor Mouse Clothing Stand 2.2.4
-+ Train Station 1.0.8
-+ Walk to the Desert NPCs 1.1.0
-+ Mermaid Island 3.1.2
++ [Boarding House](https://www.nexusmods.com/stardewvalley/mods/4120) - adds an area behind the bus stop with a boarding house a ranch, and other features
++ [Bus Locations](https://www.nexusmods.com/stardewvalley/mods/2905) -  not a location itself, allows mods to use the bus system to reach them
++ [Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966) - adds life to the Community Center once it's complete (read the description for SVE compat)
++ [East Scarpe](https://www.nexusmods.com/stardewvalley/mods/5787) - cozy New England style town east of Pelican
++	[Deep Woods](https://www.nexusmods.com/stardewvalley/mods/2571) - adds a woods area similar to the mine (randomized, extremely dangerous)
++ [GardenVillage](https://www.nexusmods.com/stardewvalley/mods/6113) - adds a bus location with shops that sell JA items (installation is tricky, read the instructions)
++ [Khadija's Recipe Shop](https://www.nexusmods.com/stardewvalley/mods/5245) - shop that sells recipes out of the ice cream stand in seasons besides summer (moves to desert in the summer)
++ [Mermaid Island](https://www.nexusmods.com/stardewvalley/mods/4216) - adds a new island to explore with NPCs, shops, fish, etc.
++ [Museum Expansion](https://www.nexusmods.com/stardewvalley/mods/6027) - adds two new NPCs to the museum and more lore and backstory
++ [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) - a fantastic new village reachable by cable car with NPCs, quests, the whole nine yards
++ [Shadow Cove](https://www.nexusmods.com/stardewvalley/mods/6226) - adds a few new locations to the bus menu 
++ [Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372) - adds an aquarium that functions like the museum, but for fish! (reachable by train)
++ [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) - a MAJOR overhaul of the game adding locations, NPCs, items, fish, all kinds of things (*NOTE* several mods have instructions to make them compatible with SVE. Everything on this list should be compatible, but may or may not require following directions)
++ [Grampleton Fields](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files) - an expanded (optional) SVE area with a large farm (can be performance heavy)
++ [Tailor Mouse Clothing Stand](https://www.nexusmods.com/stardewvalley/mods/4798) - hat mouse's cousin. sells clothes from content packs. cute
++ [Train Station](https://www.nexusmods.com/stardewvalley/mods/6183) - not a location itself, allows mods to use the train system to reach them
++ [Walk to the Desert](https://www.nexusmods.com/stardewvalley/mods/6234) - adds several maps connecting the desert and Pelican Town on foot (or by horse). optionally connects Garden Village if installed
+
 
 
 ### NPCs
